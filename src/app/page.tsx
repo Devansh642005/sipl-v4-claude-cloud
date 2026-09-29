@@ -7,46 +7,47 @@ import { projects } from "@/data/projects";
 import { DiscoveryCampaign } from "@/components/corporate/campaigns";
 
 export const metadata: Metadata = {
-  title: "SIPL Group | Building Trust | Varanasi",
+  title: "SIPL Group | Sri Krishna Vilas | Building Trust",
   description:
-    "Rooted in Varanasi. Discover SIPL Group’s real estate and hospitality portfolio, our people and the principle that connects us: Building Trust.",
+    "Discover Sri Krishna Vilas, SIPL Group’s featured residential project in Varanasi, alongside the wider SIPL real estate and hospitality portfolio.",
   alternates: { canonical: "/" },
 };
 
 export default function Home() {
   return (
     <main id="main" className="editorial-home">
-      <section className="ed-hero" aria-labelledby="home-title">
+      <section className="ed-hero ed-hero-feature" aria-labelledby="home-title">
         <div className="ed-hero-top">
           <span className="ed-label">SIPL Group · Since 2013</span>
-          <span className="ed-label">Real estate & hospitality</span>
+          <span className="ed-label">Current featured project · Varanasi</span>
         </div>
         <div className="ed-hero-heading">
-          <h1 id="home-title">
-            Rooted in a city.
-            <br />
-            <em>Built on trust.</em>
-          </h1>
           <div>
-            <p>Homes. Hospitality. A shared sense of belonging.</p>
-            <p>Discover the SIPL story, here in Varanasi.</p>
-            <Link className="lx-link" href="/projects">
-              Explore our portfolio <span aria-hidden="true">↗</span>
-            </Link>
+            <span className="ed-kicker">A new address, carefully considered</span>
+            <h1 id="home-title">
+              Sri Krishna
+              <br />
+              <em>Vilas.</em>
+            </h1>
+          </div>
+          <div>
+            <p>A considered collection of residences shaped around light, landscape and everyday belonging.</p>
+            <p>Explore the architecture and shared spaces of SIPL&apos;s featured residential project.</p>
+            <div className="ed-hero-actions">
+              <Link className="lx-btn" href="/projects/sri-krishna-vilas">Explore the project ↗</Link>
+              <EnquireButton project="Sri Krishna Vilas" intent="Site Visit" className="lx-link">Request a site visit ↗</EnquireButton>
+            </div>
           </div>
         </div>
-        <figure className="ed-city">
-          <MediaImage id="varanasi" priority />
-          <span className="ed-city-word" aria-hidden="true">
-            Varanasi
-          </span>
-          <figcaption>Our home city · Varanasi riverfront</figcaption>
+        <figure className="ed-city ed-hero-architecture">
+          <MediaImage id="hero" priority />
+          <div className="ed-hero-frame" aria-hidden="true"><span /></div>
+          <span className="ed-city-word" aria-hidden="true">Vilas</span>
+          <figcaption>Sri Krishna Vilas · Architectural visualisation</figcaption>
         </figure>
         <div className="ed-hero-foot">
-          <span>One group. Many ways to belong.</span>
-          <Link href="/about">
-            Meet SIPL Group <span aria-hidden="true">↗</span>
-          </Link>
+          <span>Homes with a sense of place.</span>
+          <Link href="/about">Meet SIPL Group <span aria-hidden="true">↗</span></Link>
         </div>
       </section>
       <section className="ed-section ed-intro">
