@@ -1,0 +1,449 @@
+[
+  {
+    "path": "Image & Video/1.jpg",
+    "bytes": 6766669,
+    "compressedBytes": 6754350,
+    "crc": 2057138685,
+    "width": 3840,
+    "height": 2160,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/10.jpg",
+    "bytes": 8882116,
+    "compressedBytes": 8712571,
+    "crc": 3548891432,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/2.jpg",
+    "bytes": 12115419,
+    "compressedBytes": 12032595,
+    "crc": 1986612451,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/4.jpg",
+    "bytes": 6130704,
+    "compressedBytes": 6111265,
+    "crc": 1138889641,
+    "width": 3840,
+    "height": 2160,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/7.jpg",
+    "bytes": 3911978,
+    "compressedBytes": 3898855,
+    "crc": 598017440,
+    "width": 3840,
+    "height": 2160,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Alliway.png",
+    "bytes": 99707550,
+    "compressedBytes": 33812381,
+    "crc": 3571002533,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Atrium 6.jpg",
+    "bytes": 8650396,
+    "compressedBytes": 8530106,
+    "crc": 4266611138,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Atrium.png",
+    "bytes": 99587240,
+    "compressedBytes": 22905009,
+    "crc": 3336777030,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Badminton court.png",
+    "bytes": 99713300,
+    "compressedBytes": 61760971,
+    "crc": 1944444465,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Balcony View.jpeg",
+    "bytes": 357975,
+    "compressedBytes": 357429,
+    "crc": 1401602297,
+    "width": 1600,
+    "height": 900,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Basement Parking.png",
+    "bytes": 99708990,
+    "compressedBytes": 39456474,
+    "crc": 573593059,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/BEV club house.png",
+    "bytes": 99710305,
+    "compressedBytes": 50383338,
+    "crc": 1770214106,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Club house.png",
+    "bytes": 99709000,
+    "compressedBytes": 43675821,
+    "crc": 428889965,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Dusk view.png",
+    "bytes": 95441113,
+    "compressedBytes": 37570460,
+    "crc": 4099764258,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/East side.png",
+    "bytes": 97598073,
+    "compressedBytes": 44129839,
+    "crc": 2699271968,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/EV Charging.jpg",
+    "bytes": 28903372,
+    "compressedBytes": 28826799,
+    "crc": 3778222339,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Fountain view.png",
+    "bytes": 99709355,
+    "compressedBytes": 40555602,
+    "crc": 325490724,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Front fountain.png",
+    "bytes": 99710525,
+    "compressedBytes": 47523021,
+    "crc": 74887847,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Front view.png",
+    "bytes": 96585346,
+    "compressedBytes": 40268150,
+    "crc": 405603087,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/front view_Day exterior view.png",
+    "bytes": 99706330,
+    "compressedBytes": 32481492,
+    "crc": 851683174,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Garden view.jpg",
+    "bytes": 20008997,
+    "compressedBytes": 19916255,
+    "crc": 2643782451,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Garden view.png",
+    "bytes": 99712565,
+    "compressedBytes": 48294292,
+    "crc": 991211150,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Garden view5.jpg",
+    "bytes": 5458887,
+    "compressedBytes": 5453533,
+    "crc": 3873508730,
+    "width": 3840,
+    "height": 2160,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Gokul.jpeg",
+    "bytes": 292703,
+    "compressedBytes": 291200,
+    "crc": 2238663036,
+    "width": 1600,
+    "height": 900,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Govardhan.jpeg",
+    "bytes": 280594,
+    "compressedBytes": 279164,
+    "crc": 790948431,
+    "width": 1600,
+    "height": 900,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Jogging track.png",
+    "bytes": 99709950,
+    "compressedBytes": 36361131,
+    "crc": 153931409,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Lift lobby.jpg",
+    "bytes": 9357258,
+    "compressedBytes": 9199258,
+    "crc": 629181298,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Main Gate.png",
+    "bytes": 99708680,
+    "compressedBytes": 36665422,
+    "crc": 2543136584,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Open gym.png",
+    "bytes": 99709945,
+    "compressedBytes": 48904102,
+    "crc": 1850459733,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/open theater.jpg",
+    "bytes": 20957262,
+    "compressedBytes": 20910436,
+    "crc": 976287064,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Plan.png",
+    "bytes": 99710310,
+    "compressedBytes": 45051599,
+    "crc": 1324743631,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Pool view.png",
+    "bytes": 99709535,
+    "compressedBytes": 42002058,
+    "crc": 188727685,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Ramp trellis.png",
+    "bytes": 99709705,
+    "compressedBytes": 47222068,
+    "crc": 2237740571,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-18-56_Enscape scene 3.png",
+    "bytes": 2585088,
+    "compressedBytes": 2585878,
+    "crc": 516182646,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-20-44_Enscape scene 3.png",
+    "bytes": 2604878,
+    "compressedBytes": 2605673,
+    "crc": 479962910,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-25-25_Enscape scene 3.png",
+    "bytes": 2581209,
+    "compressedBytes": 2581999,
+    "crc": 239541611,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-43-35_Enscape scene 4.png",
+    "bytes": 2408167,
+    "compressedBytes": 2408856,
+    "crc": 2931584958,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-46-05_Enscape scene 4.png",
+    "bytes": 2408192,
+    "compressedBytes": 2408888,
+    "crc": 3528269338,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-47-51_Enscape scene 4.png",
+    "bytes": 2405872,
+    "compressedBytes": 2406584,
+    "crc": 2443586097,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-50-50_Enscape scene 5.png",
+    "bytes": 2352861,
+    "compressedBytes": 2353581,
+    "crc": 259713705,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-53-17_Enscape scene 6.png",
+    "bytes": 2420126,
+    "compressedBytes": 2420866,
+    "crc": 1593551188,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2024-12-28-18-55-57_Enscape scene 4.png",
+    "bytes": 2421500,
+    "compressedBytes": 2422168,
+    "crc": 2994137453,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Sample Flats/Enscape_2025-01-24-17-04-57_Scene 11.png",
+    "bytes": 2141539,
+    "compressedBytes": 2142194,
+    "crc": 1252325771,
+    "width": 1920,
+    "height": 1080,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Senior citizen2.png",
+    "bytes": 99713160,
+    "compressedBytes": 60651975,
+    "crc": 2440382895,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Shop.png",
+    "bytes": 99709030,
+    "compressedBytes": 40317956,
+    "crc": 2773094482,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Spa and sauna.jpg",
+    "bytes": 12450319,
+    "compressedBytes": 12377145,
+    "crc": 1585177181,
+    "width": 7680,
+    "height": 4320,
+    "format": "JPEG"
+  },
+  {
+    "path": "Image & Video/Top view.png",
+    "bytes": 99711720,
+    "compressedBytes": 56880647,
+    "crc": 3338091781,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/Walkthrough/Walkthrough.mp4",
+    "bytes": 393770928,
+    "compressedBytes": 393614559,
+    "crc": 2050478858
+  },
+  {
+    "path": "Image & Video/West view.png",
+    "bytes": 97254606,
+    "compressedBytes": 38861461,
+    "crc": 976102665,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  },
+  {
+    "path": "Image & Video/west-north side view.png",
+    "bytes": 99647339,
+    "compressedBytes": 33115305,
+    "crc": 2944444604,
+    "width": 7680,
+    "height": 4320,
+    "format": "PNG"
+  }
+]

@@ -1,0 +1,58 @@
+node_modules
+.next
+.env*
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# ===== SIPL LOCAL / GENERATED =====
+node_modules/
+.next/
+out/
+dist/
+coverage/
+
+# Generated exports / backups
+exports/
+*.zip
+
+# Logs / temp
+*.log
+.DS_Store
+Thumbs.db
+tmp/
+.temp/
+.cache/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Playwright generated output
+playwright-report/
+test-results/
+
+# Local editor
+.vscode/
+.idea/
+
+
+node_modules/
+.next/
+exports/
+*.zip
+out/
+dist/
+coverage/
+
+.git.old-worktree-link
+
+node_modules/
+.next/
+*.zip
+exports/
+out/
+dist/
+coverage/
+.git.worktree-backup-*

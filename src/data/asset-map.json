@@ -1,0 +1,177 @@
+{
+  "hero": {
+    "original": "siplgroup/New Image/front-view_Day-exterior-view.png",
+    "public": "/assets/hero.webp"
+  },
+  "aerial": {
+    "original": "siplgroup/New Image/3 (1).jpg",
+    "public": "/assets/aerial.webp"
+  },
+  "atrium": {
+    "original": "siplgroup/New Image/Atrium.png",
+    "public": "/assets/atrium.webp"
+  },
+  "pool": {
+    "original": "siplgroup/New Image/Pool-view.png",
+    "public": "/assets/pool.webp"
+  },
+  "living": {
+    "original": "siplgroup/New Image/living-room.jpg",
+    "public": "/assets/living.webp"
+  },
+  "progress": {
+    "original": "siplgroup/New Image/410.jpeg.jpeg",
+    "public": "/assets/progress.webp"
+  },
+  "hospitality": {
+    "original": "siplgroup/img/The Kashi Residency.jpeg",
+    "public": "/assets/hospitality.webp"
+  },
+  "logo-light": {
+    "original": "siplgroup/img/SIPL logo png.png",
+    "public": "/assets/logo-light.png"
+  },
+  "logo-dark": {
+    "original": "siplgroup/New Image/cropped-Untitled-1.png",
+    "public": "/assets/logo-dark.png"
+  },
+  "master-plan": {
+    "original": "siplgroup/New Image/13-scaled.jpg",
+    "public": "/assets/master-plan.webp"
+  },
+  "architecture": {
+    "original": "siplgroup/New Image/west-north-side-view.png",
+    "public": "/assets/architecture.webp"
+  },
+  "walkway": {
+    "original": "siplgroup/New Image/Alliway.png",
+    "public": "/assets/walkway.webp"
+  },
+  "lobby": {
+    "original": "siplgroup/New Image/lobby.png",
+    "public": "/assets/lobby.webp"
+  },
+  "gym": {
+    "original": "siplgroup/New Image/Open-gym.png",
+    "public": "/assets/gym.webp"
+  },
+  "jogging": {
+    "original": "siplgroup/New Image/Jogging-track.png",
+    "public": "/assets/jogging.webp"
+  },
+  "badminton": {
+    "original": "siplgroup/New Image/Badminton-court.png",
+    "public": "/assets/badminton.webp"
+  },
+  "theatre": {
+    "original": "siplgroup/New Image/open-theater-scaled.jpg",
+    "public": "/assets/theatre.webp"
+  },
+  "bedroom": {
+    "original": "siplgroup/New Image/ROOM-1.png",
+    "public": "/assets/bedroom.webp"
+  },
+  "skv-igbc-precertificate": {
+    "original": "siplgroup/New Image/GH240670.jpg",
+    "public": "/assets/skv-igbc-precertificate.jpg"
+  },
+  "skv-brochure-cover": {
+    "original": "siplgroup/New Image/Sri Krishna Vilas.pdf \u2014 page 1",
+    "public": "/assets/skv-brochure-cover.jpg"
+  },
+  "skv-supplied-brochure": {
+    "original": "siplgroup/New Image/Sri Krishna Vilas.pdf",
+    "public": "/documents/sri-krishna-vilas-supplied-brochure.pdf"
+  },
+  "east": {
+    "original": "siplgroup/New Image/East-side.png",
+    "public": "/assets/east.webp"
+  },
+  "exterior-front": {
+    "original": "siplgroup/New Image/Untitled-4.jpg",
+    "public": "/assets/exterior-front.webp"
+  },
+  "exterior-aerial": {
+    "original": "siplgroup/New Image/image1.jpg",
+    "public": "/assets/exterior-aerial.webp"
+  },
+  "exterior-evening": {
+    "original": "siplgroup/New Image/image2.jpg",
+    "public": "/assets/exterior-evening.webp"
+  },
+  "clubhouse": {
+    "original": "siplgroup/New Image/sitting and pool area.jpg",
+    "public": "/assets/clubhouse.webp"
+  },
+  "indoor-gym": {
+    "original": "siplgroup/New Image/GYM.jpg",
+    "public": "/assets/indoor-gym.webp"
+  },
+  "guest-room": {
+    "original": "siplgroup/New Image/bedroom.jpg",
+    "public": "/assets/guest-room.webp"
+  },
+  "kids-play": {
+    "original": "siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s881.png",
+    "public": "/assets/kids-play.webp"
+  },
+  "varanasi": {
+    "original": "siplgroup/New Image/srivatsan-balaji-T5s48osIQTU-unsplash.jpg",
+    "public": "/assets/varanasi.webp"
+  },
+  "barsana-logo": {
+    "original": "siplgroup/New Image/logo Change.png",
+    "public": "/assets/barsana-logo.webp"
+  },
+  "raman-logo": {
+    "original": "siplgroup/New Image/Raman Reti.png",
+    "public": "/assets/raman-logo.webp"
+  },
+  "manasi-logo": {
+    "original": "siplgroup/New Image/Manasi Ganga.png",
+    "public": "/assets/manasi-logo.webp"
+  },
+  "progress-wide": {
+    "original": "siplgroup/New Image/1 (7).jpeg",
+    "public": "/assets/progress-wide.webp"
+  },
+  "progress-courtyard": {
+    "original": "siplgroup/New Image/413.jpeg.jpeg",
+    "public": "/assets/progress-courtyard.webp"
+  },
+  "plan-1bhk": {
+    "original": "Supplied Sri Krishna Vilas.pdf page 13",
+    "public": "/assets/plan-1bhk.webp"
+  },
+  "plan-2bhk": {
+    "original": "Official Brochure.pdf page 17",
+    "public": "/assets/plan-2bhk.webp"
+  },
+  "plan-3bhk": {
+    "original": "Official Brochure.pdf page 21",
+    "public": "/assets/plan-3bhk.webp"
+  },
+  "official-brochure-cover": {
+    "original": "Official Brochure.pdf page 1",
+    "public": "/assets/official-brochure-cover.webp"
+  },
+  "official-brochure": {
+    "original": "https://siplgroup.in/wp-content/uploads/2025/02/Brochure.pdf",
+    "public": "/documents/sri-krishna-vilas-official-brochure.pdf"
+  },
+  "hero-video": {
+    "original": "public/media/sri-krishna-vilas-tour.mp4",
+    "optimized": "/media/sri-krishna-vilas-tour-web.mp4",
+    "approval": "Prior approved derivative retained. Corporate redesign uses poster-first approved film; current configuration is in src/data/media.ts."
+  },
+  "walkthrough-video": {
+    "original": "siplgroup/New Image/Sri Krishan Vilas1.mp4",
+    "public": "/media/skv-walkthrough.mp4",
+    "derivative": "Optimized silent web edition; written visual description accompanies player"
+  },
+  "archived-hero-video": {
+    "original": "siplgroup/New Image/Animate_real_estate_video_1080p_202609081904.mp4",
+    "public": "/media/skv-hero.mp4",
+    "approval": "Not enabled without confirmation"
+  }
+}

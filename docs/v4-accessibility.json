@@ -1,0 +1,172 @@
+[
+  {
+    "route": "/",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about/leadership",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about/legacy",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about/corporate-culture",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/projects",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about/awards",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/gallery",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/media",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/blog",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/nri",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/careers",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/contact",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/about",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/about/leadership",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/about/legacy",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/about/corporate-culture",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/projects",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/about/awards",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/gallery",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/media",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/blog",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/nri",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/careers",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/contact",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "state": "concierge",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "state": "menu",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "state": "concierge",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "state": "menu",
+    "width": 1440,
+    "violations": []
+  }
+]

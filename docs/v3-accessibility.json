@@ -1,0 +1,156 @@
+[
+  {
+    "path": "/",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/about",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/projects",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/projects/sri-krishna-vilas",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/gallery/events",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/nri",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/emi-calculator",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/careers",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/contact",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "path": "/",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/about",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/projects",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/projects/sri-krishna-vilas",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/gallery/events",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/nri",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/emi-calculator",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/careers",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "path": "/contact",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "state": "lead-dialog",
+    "violations": []
+  },
+  {
+    "route": "/about/awards",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/media",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/blog",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about/leadership",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "state": "project-enquiry",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "state": "navigation",
+    "width": 390,
+    "violations": []
+  },
+  {
+    "route": "/about/awards",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/media",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/blog",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "route": "/about/leadership",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "state": "project-enquiry",
+    "width": 1440,
+    "violations": []
+  },
+  {
+    "state": "navigation",
+    "width": 1440,
+    "violations": []
+  }
+]

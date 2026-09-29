@@ -1,0 +1,29 @@
+{
+  "imageCount": 385,
+  "uniqueHashes": 231,
+  "categories": {
+    "Awards / Documents": 4,
+    "Barsana": 3,
+    "Construction": 12,
+    "Events": 39,
+    "Logos / Brand": 5,
+    "Manasi Ganga": 3,
+    "Raman Reti": 3,
+    "SIPL Corporate": 1,
+    "Sri Krishna Vilas": 53,
+    "Team / People": 36,
+    "The Kashi Residency": 4,
+    "Unknown / Needs Review": 219,
+    "Varanasi / City": 3
+  },
+  "unsupported": [
+    "siplgroup/New Image/61899840-a8b8-4bad-a67d-b50dd2e561ad.avif",
+    "siplgroup/New Image/934e5642-f7ee-4caa-b97a-e8f7e027b921.avif",
+    "siplgroup/New Image/fdb4128e-a5cc-4f18-bf97-8e951bc14a7f.avif",
+    "siplgroup/img/61899840-a8b8-4bad-a67d-b50dd2e561ad.avif",
+    "siplgroup/img/934e5642-f7ee-4caa-b97a-e8f7e027b921.avif",
+    "siplgroup/img/fdb4128e-a5cc-4f18-bf97-8e951bc14a7f.avif"
+  ],
+  "lowResolutionCount": 160,
+  "note": "Near duplicates and compression thresholds are review flags, not definitive judgements. Unknown sources are not newly published."
+}

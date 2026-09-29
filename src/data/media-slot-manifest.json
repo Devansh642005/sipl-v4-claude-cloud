@@ -1,0 +1,410 @@
+[
+  {
+    "page": "/",
+    "slotId": "corporateHero",
+    "mediaId": "varanasi",
+    "subject": "Corporate or Varanasi panorama, city context only",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1800\u00d71400",
+    "crop": "centre; protect skyline"
+  },
+  {
+    "page": "/",
+    "slotId": "aboutPreview",
+    "mediaId": "event-1",
+    "subject": "Genuine SIPL gathering or company photograph",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre; keep faces inside safe area"
+  },
+  {
+    "page": "/",
+    "slotId": "hospitality",
+    "mediaId": "kashi-room",
+    "subject": "The Kashi Residency interior",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/about",
+    "slotId": "aboutHero",
+    "mediaId": "event-2",
+    "subject": "Genuine SIPL company or event photograph",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/about/legacy",
+    "slotId": "legacyHero",
+    "mediaId": "varanasi",
+    "subject": "Varanasi city or approved company archive",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/about/corporate-culture",
+    "slotId": "culture",
+    "mediaId": "event-2",
+    "subject": "Official people or workplace photograph",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "faces within centre 80%"
+  },
+  {
+    "page": "/projects/hospitality",
+    "slotId": "hospitality",
+    "mediaId": "kashi-room",
+    "subject": "Approved Kashi hotel interior",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/nri",
+    "slotId": "nriHero",
+    "mediaId": "varanasi",
+    "subject": "Varanasi context photograph",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/careers",
+    "slotId": "careersHero",
+    "mediaId": "event-3",
+    "subject": "Real SIPL team/event photograph",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/blog",
+    "slotId": "readingCover",
+    "mediaId": "event-4",
+    "subject": "Genuine SIPL company gathering; no fictional story",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "faces clear of bottom text"
+  },
+  {
+    "page": "/contact",
+    "slotId": "contactCity",
+    "mediaId": "varanasi",
+    "subject": "Varanasi context or verified office exterior",
+    "aspectRatio": "4:3",
+    "minimumResolution": "1400\u00d71050",
+    "crop": "centre"
+  },
+  {
+    "page": "/, /media, /projects/sri-krishna-vilas",
+    "slotId": "filmPoster",
+    "mediaId": "pool",
+    "subject": "Approved Sri Krishna Vilas film still",
+    "aspectRatio": "16:9",
+    "minimumResolution": "1920\u00d71080",
+    "crop": "centre",
+    "currentAsset": "/media/sri-krishna-vilas/v4/pool.webp",
+    "sourceArchivePath": "Image & Video/Pool view.png",
+    "focalPoint": "50% 50%"
+  },
+  {
+    "page": "/, /about, /about/awards, /projects/sri-krishna-vilas",
+    "slotId": "recognition",
+    "mediaId": "skv-igbc-precertificate",
+    "subject": "Original IGBC project precertificate",
+    "aspectRatio": "original",
+    "minimumResolution": "1600 px long edge",
+    "crop": "contain entire document"
+  },
+  {
+    "page": "/projects/sri-krishna-vilas",
+    "slotId": "amenityPanorama",
+    "mediaId": "walkway",
+    "subject": "SKV shared landscape / walkway visualisation",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre",
+    "currentAsset": "/media/sri-krishna-vilas/v4/walkway.webp",
+    "sourceArchivePath": "Image & Video/Alliway.png",
+    "focalPoint": "50% 50%"
+  },
+  {
+    "page": "/, /projects, project detail",
+    "slotId": "projects.sri-krishna-vilas.image",
+    "mediaId": "hero",
+    "subject": "Sri Krishna Vilas only; use approved own image or identity",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "photo: cover / logo: contain",
+    "currentAsset": "/media/sri-krishna-vilas/v4/hero.webp",
+    "sourceArchivePath": "Image & Video/front view_Day exterior view.png",
+    "focalPoint": "50% 50%"
+  },
+  {
+    "page": "/, /projects, project detail",
+    "slotId": "projects.barsana.image",
+    "mediaId": "barsana-logo",
+    "subject": "Barsana only; use approved own image or identity",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "photo: cover / logo: contain"
+  },
+  {
+    "page": "/, /projects, project detail",
+    "slotId": "projects.raman-reti.image",
+    "mediaId": "raman-logo",
+    "subject": "Raman Reti only; use approved own image or identity",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "photo: cover / logo: contain"
+  },
+  {
+    "page": "/, /projects, project detail",
+    "slotId": "projects.the-kashi-residency.image",
+    "mediaId": "hospitality",
+    "subject": "The Kashi Residency only; use approved own image or identity",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "photo: cover / logo: contain"
+  },
+  {
+    "page": "/, /projects, project detail",
+    "slotId": "projects.manasi-ganga.image",
+    "mediaId": "manasi-logo",
+    "subject": "Manasi Ganga only; use approved own image or identity",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "photo: cover / logo: contain"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.devesh-tripathi",
+    "mediaId": "devesh-tripathi",
+    "subject": "Official Devesh Tripathi portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.shailesh-tripathi",
+    "mediaId": "shailesh-tripathi",
+    "subject": "Official Shailesh Tripathi portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.deepak-arya",
+    "mediaId": "deepak-arya",
+    "subject": "Official Deepak Arya portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.anita-singh",
+    "mediaId": "anita-singh",
+    "subject": "Official Anita Singh portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.ar-amit-kumar-gupta",
+    "mediaId": "ar-amit-kumar-gupta",
+    "subject": "Official Ar. Amit Kumar Gupta portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.raj-kumar",
+    "mediaId": "raj-kumar",
+    "subject": "Official Raj kumar portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.rajanikant-upadhyay",
+    "mediaId": "rajanikant-upadhyay",
+    "subject": "Official Rajanikant Upadhyay portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.chandan-shashank",
+    "mediaId": "chandan-shashank",
+    "subject": "Official Chandan Shashank portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.satyendra-ojha",
+    "mediaId": "satyendra-ojha",
+    "subject": "Official Satyendra Ojha portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.manisha-gaur",
+    "mediaId": "manisha-gaur",
+    "subject": "Official Manisha Gaur portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.vyomika-pathak",
+    "mediaId": "vyomika-pathak",
+    "subject": "Official Vyomika Pathak portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/about/leadership, /about preview",
+    "slotId": "team.sarvesh-tripathi",
+    "mediaId": "sarvesh-tripathi",
+    "subject": "Official Sarvesh Tripathi portrait; no generated or stock person",
+    "aspectRatio": "3:4",
+    "minimumResolution": "900\u00d71200",
+    "crop": "contain for leaders; centre crop for secondary portraits"
+  },
+  {
+    "page": "/projects/sri-krishna-vilas",
+    "slotId": "east",
+    "mediaId": "east",
+    "subject": "SKV east-side perspective",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre; retain actual/render caption",
+    "currentAsset": "/media/sri-krishna-vilas/v4/east.webp",
+    "sourceArchivePath": "Image & Video/East side.png",
+    "focalPoint": "50% 50%"
+  },
+  {
+    "page": "/projects/sri-krishna-vilas",
+    "slotId": "exterior-evening",
+    "mediaId": "exterior-evening",
+    "subject": "SKV evening perspective",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre; retain actual/render caption"
+  },
+  {
+    "page": "/projects/sri-krishna-vilas",
+    "slotId": "progress-courtyard",
+    "mediaId": "progress-courtyard",
+    "subject": "Actual SKV construction archive",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre; retain actual/render caption"
+  },
+  {
+    "page": "/gallery",
+    "slotId": "galleryHub.atrium",
+    "mediaId": "atrium",
+    "subject": "SKV architectural visualisation",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre",
+    "currentAsset": "/media/sri-krishna-vilas/v4/atrium.webp",
+    "sourceArchivePath": "Image & Video/Atrium.png",
+    "focalPoint": "50% 50%"
+  },
+  {
+    "page": "/gallery",
+    "slotId": "galleryHub.progress",
+    "mediaId": "progress",
+    "subject": "Actual SKV construction archive",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre"
+  },
+  {
+    "page": "/gallery",
+    "slotId": "galleryHub.event-4",
+    "mediaId": "event-4",
+    "subject": "Official SIPL event",
+    "aspectRatio": "3:2",
+    "minimumResolution": "1600\u00d71067",
+    "crop": "centre"
+  },
+  {
+    "page": "/projects/sri-krishna-vilas",
+    "slotId": "arrivalHero",
+    "mediaId": "v4-arrival",
+    "subject": "Sri Krishna Vilas entrance",
+    "aspectRatio": "16:9",
+    "minimumResolution": "1920\u00d71080",
+    "crop": "protect identity, faces and architectural edges",
+    "focalPoint": "50% 50%",
+    "currentAsset": "/media/sri-krishna-vilas/v4/v4-arrival.webp",
+    "sourceArchivePath": "Image & Video/Main Gate.png"
+  },
+  {
+    "page": "/projects",
+    "slotId": "discoveryStage",
+    "mediaId": "hero",
+    "subject": "Selected project; never substitute another project",
+    "aspectRatio": "16:9",
+    "minimumResolution": "1920\u00d71080",
+    "crop": "protect identity, faces and architectural edges",
+    "focalPoint": "50% 50%",
+    "currentAsset": "/media/sri-krishna-vilas/v4/hero.webp",
+    "sourceArchivePath": "Image & Video/front view_Day exterior view.png"
+  },
+  {
+    "page": "global",
+    "slotId": "conciergePool",
+    "mediaId": "pool",
+    "subject": "Verified Sri Krishna Vilas pool render",
+    "aspectRatio": "16:9",
+    "minimumResolution": "1920\u00d71080",
+    "crop": "protect identity, faces and architectural edges",
+    "focalPoint": "50% 50%",
+    "currentAsset": "/media/sri-krishna-vilas/v4/pool.webp",
+    "sourceArchivePath": "Image & Video/Pool view.png"
+  },
+  {
+    "page": "/about",
+    "slotId": "valuesStory",
+    "mediaId": "event-2",
+    "subject": "Genuine SIPL event photograph",
+    "aspectRatio": "16:9",
+    "minimumResolution": "1920\u00d71080",
+    "crop": "protect identity, faces and architectural edges",
+    "focalPoint": "50% 50%",
+    "currentAsset": "See media registry",
+    "sourceArchivePath": "Existing official SIPL archive"
+  },
+  {
+    "page": "/careers",
+    "slotId": "cultureRail",
+    "mediaId": "event-3",
+    "subject": "Genuine company event photograph",
+    "aspectRatio": "16:9",
+    "minimumResolution": "1920\u00d71080",
+    "crop": "protect identity, faces and architectural edges",
+    "focalPoint": "50% 50%",
+    "currentAsset": "See media registry",
+    "sourceArchivePath": "Existing official SIPL archive"
+  }
+]

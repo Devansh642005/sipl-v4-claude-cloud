@@ -1,0 +1,362 @@
+[
+  {
+    "route": "/",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/awards",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/media",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/blog",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/leadership",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/nri",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/careers",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/contact",
+    "width": 375,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/awards",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/media",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/blog",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/leadership",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/nri",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/careers",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/contact",
+    "width": 390,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/awards",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/media",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/blog",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/leadership",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/nri",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/careers",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/contact",
+    "width": 430,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/awards",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/media",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/blog",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/leadership",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/nri",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/careers",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/contact",
+    "width": 768,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/projects/sri-krishna-vilas",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/awards",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/media",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/blog",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/about/leadership",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/nri",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/emi-calculator",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/careers",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  },
+  {
+    "route": "/contact",
+    "width": 1440,
+    "overflow": false,
+    "h1s": 1
+  }
+]

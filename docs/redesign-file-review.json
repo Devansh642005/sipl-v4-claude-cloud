@@ -1,0 +1,241 @@
+{
+  "comparison": "pre-corporate safety archive; no Git repository",
+  "changed": [
+    {
+      "path": "src/app/sitemap.ts",
+      "status": "added",
+      "bytes": 475
+    },
+    {
+      "path": "src/app/robots.ts",
+      "status": "added",
+      "bytes": 317
+    },
+    {
+      "path": "src/app/corporate.css",
+      "status": "added",
+      "bytes": 50954
+    },
+    {
+      "path": "src/app/page.tsx",
+      "status": "modified",
+      "bytes": 6634
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "status": "modified",
+      "bytes": 2105
+    },
+    {
+      "path": "src/components/property-gallery.tsx",
+      "status": "modified",
+      "bytes": 5964
+    },
+    {
+      "path": "src/components/master-plan.tsx",
+      "status": "modified",
+      "bytes": 3141
+    },
+    {
+      "path": "src/components/enquiry-form.tsx",
+      "status": "modified",
+      "bytes": 7252
+    },
+    {
+      "path": "src/data/company.ts",
+      "status": "modified",
+      "bytes": 1787
+    },
+    {
+      "path": "src/data/news.ts",
+      "status": "added",
+      "bytes": 1341
+    },
+    {
+      "path": "src/data/awards.ts",
+      "status": "added",
+      "bytes": 615
+    },
+    {
+      "path": "src/data/media.ts",
+      "status": "added",
+      "bytes": 4006
+    },
+    {
+      "path": "src/data/blog.ts",
+      "status": "added",
+      "bytes": 261
+    },
+    {
+      "path": "src/data/testimonials.ts",
+      "status": "added",
+      "bytes": 260
+    },
+    {
+      "path": "src/data/media-dimensions.json",
+      "status": "added",
+      "bytes": 6556
+    },
+    {
+      "path": "src/data/pages.ts",
+      "status": "added",
+      "bytes": 4624
+    },
+    {
+      "path": "src/data/corporate-media.json",
+      "status": "added",
+      "bytes": 7713
+    },
+    {
+      "path": "src/data/team.ts",
+      "status": "added",
+      "bytes": 2481
+    },
+    {
+      "path": "src/data/contact.ts",
+      "status": "added",
+      "bytes": 521
+    },
+    {
+      "path": "src/data/projects.ts",
+      "status": "added",
+      "bytes": 1903
+    },
+    {
+      "path": "src/lib/enquiry.ts",
+      "status": "added",
+      "bytes": 410
+    },
+    {
+      "path": "src/app/[...slug]/page.tsx",
+      "status": "added",
+      "bytes": 1411
+    },
+    {
+      "path": "src/app/projects/sri-krishna-vilas/page.tsx",
+      "status": "modified",
+      "bytes": 9097
+    },
+    {
+      "path": "src/app/blog/[slug]/page.tsx",
+      "status": "added",
+      "bytes": 2270
+    },
+    {
+      "path": "src/components/corporate/shared.tsx",
+      "status": "added",
+      "bytes": 9040
+    },
+    {
+      "path": "src/components/corporate/pages.tsx",
+      "status": "added",
+      "bytes": 33039
+    },
+    {
+      "path": "src/components/corporate/interactive.tsx",
+      "status": "added",
+      "bytes": 25974
+    },
+    {
+      "path": "tests/hero-polish.spec.ts",
+      "status": "modified",
+      "bytes": 1837
+    },
+    {
+      "path": "tests/homepage.spec.ts",
+      "status": "modified",
+      "bytes": 10900
+    },
+    {
+      "path": "scripts/audit-assets.py",
+      "status": "added",
+      "bytes": 4304
+    },
+    {
+      "path": "docs/corporate-asset-audit.json",
+      "status": "added",
+      "bytes": 242024
+    },
+    {
+      "path": "docs/CORPORATE_HANDOVER.md",
+      "status": "added",
+      "bytes": 4484
+    },
+    {
+      "path": "docs/ASSET_REPLACEMENT_GUIDE.md",
+      "status": "added",
+      "bytes": 4819
+    },
+    {
+      "path": "docs/CLIENT_CONTENT_REQUIRED.md",
+      "status": "added",
+      "bytes": 3725
+    },
+    {
+      "path": "docs/corporate-asset-summary.json",
+      "status": "added",
+      "bytes": 960
+    },
+    {
+      "path": "docs/source-crawl/sri-krishna-vilas.html",
+      "status": "added",
+      "bytes": 79383
+    },
+    {
+      "path": "docs/source-crawl/manasi-ganga.html",
+      "status": "added",
+      "bytes": 75609
+    },
+    {
+      "path": "docs/source-crawl/event-photos.html",
+      "status": "added",
+      "bytes": 77938
+    },
+    {
+      "path": "docs/source-crawl/project-photos.html",
+      "status": "added",
+      "bytes": 78573
+    },
+    {
+      "path": "docs/source-crawl/current-photos.html",
+      "status": "added",
+      "bytes": 77977
+    },
+    {
+      "path": "docs/source-crawl/contact.html",
+      "status": "added",
+      "bytes": 77899
+    },
+    {
+      "path": "docs/source-crawl/about-us.html",
+      "status": "added",
+      "bytes": 88659
+    },
+    {
+      "path": "docs/source-crawl/home.html",
+      "status": "added",
+      "bytes": 87486
+    },
+    {
+      "path": "docs/source-crawl/career.html",
+      "status": "added",
+      "bytes": 77238
+    },
+    {
+      "path": "docs/source-crawl/barsana.html",
+      "status": "added",
+      "bytes": 75686
+    },
+    {
+      "path": "docs/source-crawl/raman-reti.html",
+      "status": "added",
+      "bytes": 75560
+    },
+    {
+      "path": "README.md",
+      "status": "modified",
+      "bytes": 2063
+    }
+  ],
+  "removed": []
+}

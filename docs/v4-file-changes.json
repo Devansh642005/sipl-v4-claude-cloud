@@ -1,0 +1,354 @@
+[
+  {
+    "path": "src/app/page.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/app/layout.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/app/experience.css",
+    "change": "added"
+  },
+  {
+    "path": "src/components/configuration-explorer.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/components/property-gallery.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/components/master-plan.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/data/new-zip-media.json",
+    "change": "added"
+  },
+  {
+    "path": "src/data/media-slot-manifest.json",
+    "change": "modified"
+  },
+  {
+    "path": "src/data/concierge.ts",
+    "change": "added"
+  },
+  {
+    "path": "src/data/media.ts",
+    "change": "modified"
+  },
+  {
+    "path": "src/app/projects/sri-krishna-vilas/page.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/components/corporate/graphic-motion.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/components/corporate/experience.tsx",
+    "change": "added"
+  },
+  {
+    "path": "src/components/corporate/pages.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "src/components/corporate/krishna-concierge.tsx",
+    "change": "added"
+  },
+  {
+    "path": "src/components/corporate/video-theatre.tsx",
+    "change": "added"
+  },
+  {
+    "path": "src/components/corporate/interactive.tsx",
+    "change": "modified"
+  },
+  {
+    "path": "tests/homepage.spec.ts",
+    "change": "modified"
+  },
+  {
+    "path": "tests/v4-experience.spec.ts",
+    "change": "added"
+  },
+  {
+    "path": "docs/v4-browser-findings.json",
+    "change": "added"
+  },
+  {
+    "path": "docs/NEW_ZIP_ASSET_AUDIT.md",
+    "change": "added"
+  },
+  {
+    "path": "docs/new-zip-inventory.json",
+    "change": "added"
+  },
+  {
+    "path": "docs/MOTION_AND_INTERACTION_SYSTEM.md",
+    "change": "added"
+  },
+  {
+    "path": "docs/ASSET_REPLACEMENT_GUIDE.md",
+    "change": "modified"
+  },
+  {
+    "path": "docs/CLIENT_CONTENT_REQUIRED.md",
+    "change": "modified"
+  },
+  {
+    "path": "docs/v4-accessibility.json",
+    "change": "added"
+  },
+  {
+    "path": "docs/V4_EXPERIENCE_HANDOVER.md",
+    "change": "added"
+  },
+  {
+    "path": "docs/NEW_ZIP_REPLACEMENT_MANIFEST.md",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/media-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-leadership-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/projects-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/contact-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/contact-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/careers-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-legacy-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/blog-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/menu-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-awards-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/concierge-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/gallery-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-awards-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/careers-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/home-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/gallery-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/projects-sri-krishna-vilas-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/projects-sri-krishna-vilas-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/projects-sri-krishna-vilas-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-leadership-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/emi-calculator-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/blog-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-legacy-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-corporate-culture-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/blog-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/careers-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/nri-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/home-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/projects-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-legacy-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/projects-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/home-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/menu-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-awards-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/media-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/media-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/concierge-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-corporate-culture-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/nri-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-corporate-culture-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/contact-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-leadership-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/gallery-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/emi-calculator-768.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/emi-calculator-390.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/about-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "docs/visual-review/v4/nri-1440.jpg",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/master-plan.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/hero.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/v4-arrival.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/badminton.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/jogging.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/east.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/atrium.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/pool.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/architecture.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/walkway.webp",
+    "change": "added"
+  },
+  {
+    "path": "public/media/sri-krishna-vilas/v4/gym.webp",
+    "change": "added"
+  }
+]

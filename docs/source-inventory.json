@@ -1,0 +1,2144 @@
+[
+  {
+    "path": "../siplgroup/New Image/1 (2).jpeg",
+    "bytes": 10053,
+    "sha256": "c66b360f006c2f26f37229725cf25a47045970f4f156e4fe62d25c54e18e0376",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1 (4).jpeg",
+    "bytes": 16385,
+    "sha256": "29132dff197b97aee26c1d9803e8f5b6ca677e5f938a72e91d6216f4e970ec8c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1 (5).jpeg",
+    "bytes": 15475,
+    "sha256": "d174af3bdac3f702c57394af1477f147732fe6935e4d2d6e53ffd070196b7e68",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1 (6).jpeg",
+    "bytes": 14341,
+    "sha256": "be303e3ac9e7dc575fae106d0ac7f0dc7ac1ecbef16b30d32a05b0391f8db69b",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1 (7).jpeg",
+    "bytes": 12658,
+    "sha256": "1e233d7ef27074d760cb42702b456f14678ae17603af5bb2248f87fc587cbd72",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1(1).jpg",
+    "bytes": 10344,
+    "sha256": "99079588cd1fb48f0d52daccdb8fcec5dc885e33fc04f0f5f05f891e446af3c7",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1.jpg",
+    "bytes": 16682,
+    "sha256": "817adb155aa91b31104ab66c459f3cec3099ce20249338da18d5074fea50f348",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/10.jpg",
+    "bytes": 15431,
+    "sha256": "56e83d4591f8d492f6fbb3731f08bc9bef9b4181051ebf66e54af64d4619ebca",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/11.jpg",
+    "bytes": 15742,
+    "sha256": "1f4bf81284e1fc8205c119d855c79f4dc3ee1f4ccf003a6f23335ff53281e0d1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/12.jpg",
+    "bytes": 15731,
+    "sha256": "7a8254a61edfd5548040a254d9f0681cae0e023ba888f5f990290707218e9c2d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/13-scaled.jpg",
+    "bytes": 378500,
+    "sha256": "c1857e3864f321d252ad9e0e60483412fb9c4a036b2beb983ee3c8e4221cdc70",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/13.jpg",
+    "bytes": 13786,
+    "sha256": "da514a2851ba1c2e3a79f2eacbfd107518eb4d7c56c61a087058ce4dd3c10472",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/14.jpg",
+    "bytes": 13658,
+    "sha256": "b64e3cb80d3c5b316ae98a25c2f53744c1d1f8522b8bbc8414d5c5d6d643d560",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/15.jpg",
+    "bytes": 14203,
+    "sha256": "c3c32294df3a236711098357c54d790fe2011d3ec7c87c65f131f0a298c6b275",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/16.jpg",
+    "bytes": 14629,
+    "sha256": "5706701ccdbcb3b0eff75192116906dc2db83395005f51817c73dedb45439e91",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/17.jpg",
+    "bytes": 14807,
+    "sha256": "f035721779be35cb97bce48f44c8c427e36c4ceb5e9adc9b3782bb5448bc52a0",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/18.jpg",
+    "bytes": 16433,
+    "sha256": "f0b4ee8fe1868c4ab05625958ce1a021260ed17c14560e4e8d2f1c3177b6eb45",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/19.jpg",
+    "bytes": 15533,
+    "sha256": "d692d2d602af2890da0f11d434db4053c5e5411378abf57fa1869f503695f2f9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1b6d4365-364f-4a81-acf1-5c7f58c928f5.jpg",
+    "bytes": 5393,
+    "sha256": "8ec284c157cb0cbaac6ea23a3900b17ef74d668fd9a27b563cc4b6ce06f9ffb3",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/1square.jpg",
+    "bytes": 10945,
+    "sha256": "ff56254c8a21913ac3ec95b36dff04848b1455349f88f2f84a405d640eb9f56c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (1).jpg",
+    "bytes": 915858,
+    "sha256": "415806c613dee2be64af1633f9a0908c7c0e4fe640f4d899965d6baf344b312d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (2).jpg",
+    "bytes": 1243042,
+    "sha256": "2e730e6a9721896118c48d0802ee226da0a178ce6408a22809aa4ca7be9f31be",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (3).jpg",
+    "bytes": 1639251,
+    "sha256": "d054f97fc437c70bf138ecac211cfd640a34fd5e5e3e24fb4d1ae3058071cb4b",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (4).jpg",
+    "bytes": 1567760,
+    "sha256": "c4f8f438795578f5893ab2492693c16b98061f5ff5607429fc65cc8b15cc893d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (5).jpg",
+    "bytes": 1629041,
+    "sha256": "278b55c1ba6e52e5de630c8a0ed1ea30f3e3ceca8bffa17bf1e5f8c2bf5dd87c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (6).png",
+    "bytes": 647464,
+    "sha256": "74f1bcbf83f7642169b119289b644c9d56b499a94fe9f848963a93fc83b58c3f",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (7).png",
+    "bytes": 249503,
+    "sha256": "24df773ea12797934b6591b1f09fe0ccfe544ae365989467e4da4ed93ea86ce4",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (8).png",
+    "bytes": 7627576,
+    "sha256": "fc013c4786454ffa3c7d1316765038ea9c5c40c451b64f7280e6d5e4cb9636bd",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2 (9).jpg",
+    "bytes": 1676159,
+    "sha256": "d2a84f2d9f6c6ea77f3d09d720bd3979e47c6ffe6e352ba7e0daa2b9eb89c49a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2(1).jpg",
+    "bytes": 12310,
+    "sha256": "58bd73a374903cca5cb66c2d2ba545d527b5c622c70c4b1d1e4e000d8b465903",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2.jpg",
+    "bytes": 16748,
+    "sha256": "4142379e424085654e9aa5060fe970b1f022b7a4aec731bad50ecd4cfde4469d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/2square.jpg",
+    "bytes": 10945,
+    "sha256": "6fb3456cc583d7b24d5bad3000d5346a1144eba32197e89854fb699c6121ff33",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/3 (1).jpg",
+    "bytes": 283775,
+    "sha256": "876b2568f2f8e0cc0fcf1dfc8e318e78f497ef2750561767b39bb99f19a73b7e",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/3(1).jpg",
+    "bytes": 9303,
+    "sha256": "709cc0549090e214bfe87c0fcab2fa97c30c2216979af4e47cd8d684b725e342",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/3.jpg",
+    "bytes": 14630,
+    "sha256": "7ebf2805dabfc5fe5cc071b6431f8bc6edd477ab82df29a257bcf33bce424a5c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/3square.jpg",
+    "bytes": 10945,
+    "sha256": "5815d1704d74f196877edac072473feb4aac79808905db49850de78347f66978",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (1).jpg",
+    "bytes": 203160,
+    "sha256": "1dbe0f72526aa8901aa9797cc5253d171e02a8c6128a32809c071e3411fc3ead",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (10).jpg",
+    "bytes": 254185,
+    "sha256": "e5ec57285e5174eda8cc3dce804b910d15a0cdb4d7b00dbbbf105ee5340bae7d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (11).jpg",
+    "bytes": 250532,
+    "sha256": "ffe4638fcdc1bbb159a0f8ce21461e96407c8a7cc923e10dd307929f3afb37f9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (12).jpg",
+    "bytes": 340834,
+    "sha256": "b51c642a5367917a96f2a620ea187110ff049360df21eca8fb5b545c6c7e67c9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (13).jpg",
+    "bytes": 334307,
+    "sha256": "1aba5f4f9a342650a6d18ac75dacbf3b17418756569d05ababb05ba901bb9acd",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (14).jpg",
+    "bytes": 430730,
+    "sha256": "f72a9e4ec128c88512a7876c66e985aa4fab4954e11e492cc423e5de6ca5dd5e",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (15).jpg",
+    "bytes": 287659,
+    "sha256": "2486ec6e6526b0158fe4a0d8565767a01c249a5e3650bea86d62a290e3394ebf",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (16).jpg",
+    "bytes": 177495,
+    "sha256": "b197b850d8a92d34861c652a4120a96926524ed7387c620df005f04e7191b1f1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (17).jpg",
+    "bytes": 480123,
+    "sha256": "d27de5340ce5062ba44cf1a7742b6a1be88d5cdc7b512296cb985b8e343dbb84",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (18).jpg",
+    "bytes": 545711,
+    "sha256": "29a03d628124eb98133506ac77d31e2a6e1727c590ea06e7947e21f7e8bbb984",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (19).jpg",
+    "bytes": 395748,
+    "sha256": "4b08f348aae5dbbc5e7810f92cfdcd4209ba0961d91848fcf9ab685791082a99",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (2).jpg",
+    "bytes": 166190,
+    "sha256": "f3302051bb7c0216d0e3d74d5eb3ef6f36b94898f2541754f199bd2d8b8e8481",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (20).jpg",
+    "bytes": 309859,
+    "sha256": "252bc03a68562d119cd93ca00b9f056a3782a914a0d012aa3a34e5c53c0c8d91",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (21).jpg",
+    "bytes": 240621,
+    "sha256": "97374f8f36f7a1dd59e6cde711613ccc735065f59153526ea2b9b798bf409061",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (22).jpg",
+    "bytes": 296448,
+    "sha256": "1cb969c0c76bcd602bff1a8e0c3c7aadc33d50655c592d9d2318d4928802ca1f",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (23).jpg",
+    "bytes": 204350,
+    "sha256": "43ac7c53108eead72e47eff506808b325f6b50a1423588196c829f9232962bb6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (24).jpg",
+    "bytes": 417808,
+    "sha256": "87476d2f39ac6bf34acd5f0926f0a37d160f0c6dc52f159cd5833f6d73032026",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (25).jpg",
+    "bytes": 104806,
+    "sha256": "0a4d66e026b25f81b1252f47869ecbc928714191b2f03e396d51686e6a2fad95",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (26).jpg",
+    "bytes": 122687,
+    "sha256": "3d36205672d601379d74dcad9429d6370a586ae7dd524bf212eb44f8cdc1febb",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (27).jpg",
+    "bytes": 262248,
+    "sha256": "86b8455b256e787b66d09dd0fd6c942f42d1d493c7e11f2d75d030bf3bc0356d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (3).jpg",
+    "bytes": 320656,
+    "sha256": "074841c2a6c5b6a3b7aa94ce3cdced5cfa65ce8b170385fb53884106f44c0e26",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (4).jpg",
+    "bytes": 251473,
+    "sha256": "0082805643f717c0acde1a3d256dedfd4ecf65a05a04a4271ef7e9b90cbf9d90",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (5).jpg",
+    "bytes": 315411,
+    "sha256": "ea1664cc36f64c461ad4d64cc3beca119c890d92c98f89463d4f6d339b616002",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (6).jpg",
+    "bytes": 315674,
+    "sha256": "4b300bb8e973520cd23ff23938cb0ae67af1feb77beec7894915c1d530b375b8",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (7).jpg",
+    "bytes": 307597,
+    "sha256": "d9d06b453bb50ca414879cdf0006aafa8aac916a3feedca6ce262ccd6de0e108",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (8).jpg",
+    "bytes": 292169,
+    "sha256": "7ffb4386898c2e358f9c90cee4c49f4e521fec41661e3fc907af370a2e4a1ae7",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4 (9).jpg",
+    "bytes": 260311,
+    "sha256": "73094b52fbf317904ce43483de94ad4b41757a22605cf5723b9410c4a14f3aa7",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4.jpg",
+    "bytes": 14879,
+    "sha256": "2120e862cc209dc20451259ee94d0d2b8bdc098c82cd1a793570c89f55ee6d7c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/410.jpeg (1).jpeg",
+    "bytes": 337661,
+    "sha256": "abad2fa68f787c3d235b78314c371fe7399a13518a3a17acebcaeb26a8d2a29c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/410.jpeg.jpeg",
+    "bytes": 337661,
+    "sha256": "abad2fa68f787c3d235b78314c371fe7399a13518a3a17acebcaeb26a8d2a29c",
+    "duplicateOf": "../siplgroup/New Image/410.jpeg (1).jpeg"
+  },
+  {
+    "path": "../siplgroup/New Image/411.jpeg (1).jpeg",
+    "bytes": 286745,
+    "sha256": "447db0ed589ab54a4e31b61f921874936dff68c3654b518aaae8a286a24750d6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/411.jpeg.jpeg",
+    "bytes": 286745,
+    "sha256": "447db0ed589ab54a4e31b61f921874936dff68c3654b518aaae8a286a24750d6",
+    "duplicateOf": "../siplgroup/New Image/411.jpeg (1).jpeg"
+  },
+  {
+    "path": "../siplgroup/New Image/412.jpeg (1).jpeg",
+    "bytes": 298896,
+    "sha256": "523d06f973420b2241cf1266a8f09d81b10c1e43812c38da65a9f79c919f2fee",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/412.jpeg.jpeg",
+    "bytes": 298896,
+    "sha256": "523d06f973420b2241cf1266a8f09d81b10c1e43812c38da65a9f79c919f2fee",
+    "duplicateOf": "../siplgroup/New Image/412.jpeg (1).jpeg"
+  },
+  {
+    "path": "../siplgroup/New Image/413.jpeg.jpeg",
+    "bytes": 320531,
+    "sha256": "632885eeac7eedb95fdcc94911f3d58b85a30c532d5936790bd712c03d0d0b5b",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/4square.jpg",
+    "bytes": 10945,
+    "sha256": "fb0893dc4edbd036f7ce30a37dd6bbe28abd7abf7fae218c94839b33e61081a9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/5.jpg",
+    "bytes": 14018,
+    "sha256": "6421da45becec7220c22974091cd8205853ad0cb6fe1ec9844ad526f8bacc546",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/6.jpg",
+    "bytes": 13468,
+    "sha256": "fa1845895beaf573d372d78f4773bacc297f7bf0f51a38d6dc0f32c865261530",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/61899840-a8b8-4bad-a67d-b50dd2e561ad.avif",
+    "bytes": 55860,
+    "sha256": "95c9b440db17ed463e087167940ba6cebec4199172e34b330780e06106f4a69a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/7.jpg",
+    "bytes": 16812,
+    "sha256": "5ce502ef1ba61a9292b5a8f89e639a98002151ae93115fbf72ed316b9426d1e2",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/725449-gyms-open-air-090118.jpg",
+    "bytes": 11788,
+    "sha256": "c828f7983e78d79ea77652641ba528c508b5e6dfb8511df6fc88d73b6ddd8c75",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/8.jpg",
+    "bytes": 15289,
+    "sha256": "e165c333c01fdddb799a29eb7fc5357ebfab689037ee894ac3c67aa7102b3dce",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/9.jpg",
+    "bytes": 16164,
+    "sha256": "228fd29fea1d1f4be68ecd1ab6e980fcad4105b6cbb96ea9c3d034e587ee5287",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/934e5642-f7ee-4caa-b97a-e8f7e027b921.avif",
+    "bytes": 48237,
+    "sha256": "0f33290895ddbb21451022077da0812eaf7098dbc32b59fe7adfe54ae477abfc",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/9edit.jpg",
+    "bytes": 33843,
+    "sha256": "caa8e363c8c6b040f5891e8f7da64ab54707bae5f873737e644c841dea8505f6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/ABOUT_US",
+    "bytes": 897502,
+    "sha256": "b98407280ed50ebf9765bc980783430f4dfd5e22836a89eb1cddf71b9d2c9496",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Alliway.png",
+    "bytes": 612174,
+    "sha256": "caa17dd360c887ee574393c9a34ac0aed2a171cd6e89b1e9c32eba42066647a7",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Animate_real_estate_video_1080p_202609081904.mp4",
+    "bytes": 11885781,
+    "sha256": "f7355428da51ea17f039518bd2034d89f61e15d809e7ff4fa1eed2c39a6c4cd2",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Ar. Amit Kumar Gupta.jpg",
+    "bytes": 6719,
+    "sha256": "cad739c01bcd47f2c08ec2304b6859e2aa5873c970f1833a7a816268fac885d4",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Atrium.png",
+    "bytes": 528612,
+    "sha256": "6f0a757991b01a225db6a6aa9de3ad565e86908d664cdfe3f1af3b972ab6903c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/BASMENT-AREA1.png",
+    "bytes": 269872,
+    "sha256": "a427eb433b0bf8de9b554436f929aa6e9c98a74ffd8d3d3f939eff50fa5230d1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Badminton-court.png",
+    "bytes": 1023028,
+    "sha256": "7c0767183c920b553077358f3fffda7b66d11a7f1978112bda6afde398485d77",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Ca Vishal Singh.jpg",
+    "bytes": 2987,
+    "sha256": "a0bd3404fc91226fef8e4d504b592777a3cfefcb0736819ae43fe1346dab7e1a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Cam_Day (1).jpg",
+    "bytes": 181837,
+    "sha256": "ae3fed1987469103036298d70d16caf1dd52939a45512332a599e74ea2617401",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Chandan1.jpg",
+    "bytes": 6661,
+    "sha256": "a70d112ca4d73a806c64b960bf6bd3dfe1b636972c78e6f1537b14625c32d6af",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Deepak Arya.jpeg",
+    "bytes": 3296,
+    "sha256": "375e1892101cff16dbeeb038681caf7f867abbbb8bb6f297afda370eb43da5c5",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Deepak Arya1.jpg",
+    "bytes": 2938,
+    "sha256": "aac90fa99b31de00f242f30ade631c5456e1d52c538567aac56c9c2e0ac253b2",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Devesh Tripathi.jpg",
+    "bytes": 3035,
+    "sha256": "355fdc0f382094775d7a71caf3ed58808def5fe93beb466377b1ad21d704e2d0",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Devesh Tripathi1.jpg",
+    "bytes": 4746,
+    "sha256": "222767e2aa681c2bcb3587a7d669832b098928aea17dc366f4bf8c6eaaef6125",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/East-side.png",
+    "bytes": 804834,
+    "sha256": "6b47274e12e7dd418c9c6fb7d529fe8afcc6b6b5f77f5985d74a6911b008c9e3",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Event3.jpg",
+    "bytes": 132157,
+    "sha256": "35ba97989071f11aa1de953e6c8916bf131822abb59b136ef55fc4a0889bad3e",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Fg56XsRagAAq7K9.jpg_large",
+    "bytes": 269587,
+    "sha256": "79c0fcd45ec1fff835d00b4a920852d312658ed23fd3e2d26707c0c3187f192f",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Fg56ZFGaEAAPEQH.jpg",
+    "bytes": 8767,
+    "sha256": "3f3b62eec4afb9a5b72f557469b11d95cf3ae6bdd648ed99c4c1f19803d63705",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/GH240670.jpg",
+    "bytes": 72776,
+    "sha256": "d8666a6bbce746d6d733e4643017fce7c4997d1c149ad10f90312518829dfd2c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/GYM.jpg",
+    "bytes": 51017,
+    "sha256": "55c517cfd7d0b109dc465ff84ac8e27aec1d75a3a549e1fe7ac6e2d3b0cf874d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Group3.png",
+    "bytes": 109095,
+    "sha256": "30d7a9c28abfada5d31d05b8d7c05bf5f51505ed5d7a50147b4837cf4783dd89",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Hr.jpeg",
+    "bytes": 33384,
+    "sha256": "a77ee95a3adde5229260f65ea8534885f57b1708796acbb21a0e5a13f7f06b57",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/IGBC-pre-certified-Gold-logo-scaled.jpg",
+    "bytes": 118197,
+    "sha256": "790f4e2a62987221ee4434008571a0137609f164afaa8994f43aebf83913fdba",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/JW_LosCabos_2015_MainExterior.webp",
+    "bytes": 236628,
+    "sha256": "be7d28ac68f496727dc25cb357feb65c3b2d4c58d2e650b4ca10ee77f94d5290",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Jogging-track.png",
+    "bytes": 568470,
+    "sha256": "71e95d542dd071912faab7559872c1065f245122700e6da0f481c510310ae4f6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/MEP.jpg",
+    "bytes": 405134,
+    "sha256": "cd974565c5f4d0e51a68202f6145f8e7afbc04694632c87f4e05480fd444f1de",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Manasi Ganga.png",
+    "bytes": 31710,
+    "sha256": "0388a714663c8d87c45992bb8c47ee6d0b19b6c9ebfebf57ef77856e2edbc5a1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Manasi Gaura",
+    "bytes": 87757,
+    "sha256": "6f06562466e1933260bcaa840c3713474d8748985009134d0736e1f03de0f5a2",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Manshia Gaura (1).jpeg",
+    "bytes": 8093,
+    "sha256": "a423499cf25a1f1ff249b8f6bcf8749fdda0171da0c27e3b88d6db2aba7b6553",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Open-gym.png",
+    "bytes": 826219,
+    "sha256": "fd5215988d2189058871e6607d390d08c1230e5930142dffa75745381f6b3fe5",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Pool-view.png",
+    "bytes": 700976,
+    "sha256": "3228d974448083a2e52e7276bc426714dadcee08770ba52bc54b67e40eb35e68",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Project-image (1).jpg",
+    "bytes": 10032,
+    "sha256": "efb7215596858811a4b88f6bb1cce56390ed72c321e8e9343922e8ebfb786fd9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/ROOM-1.png",
+    "bytes": 158333,
+    "sha256": "31d681b73272f9a348680ba244a6a963b7d6e3c5738f55282f33d5a23bc1fe3e",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Raj Deep Jain.jpg",
+    "bytes": 6142,
+    "sha256": "696d1f889bcf92dd4f1ec8df6bd202270c383c9fc044069ad5cc6cb73daa71c1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Raj kumar.jpg",
+    "bytes": 6295,
+    "sha256": "3f2ddf0f7e27b95cbd734f28a295ba4ab27769f5211b74b79e64c2cd277ae58f",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Rajanikant Upadhyay1.jpg",
+    "bytes": 1964,
+    "sha256": "fce69cd9e9b5974f20b05cfddf9ffab28c772cb4ef6cf1fb27b255a4031124ad",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Raman Reti.png",
+    "bytes": 58441,
+    "sha256": "5dce26f44f0b6752c645d5d3db00e36487d72b19d3f2fee78b99d7ecd97302f0",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/SIPL logo png.png",
+    "bytes": 42125,
+    "sha256": "0caf65847dfc5139b90613a76772edf08280d8e226128d58f95d3b673f01d31c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/SIPL logo png2.png",
+    "bytes": 41497,
+    "sha256": "0ed445bc2146b2bbf6d930574d6407f71f10e87f7fe8286e52a7077c388ed860",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Sarvesh Tripathi",
+    "bytes": 50632,
+    "sha256": "7abb3f749dc16557c6ca7ad8cca31d84e25a3ae6bb20c59e38fe384314c08874",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Satyendra ojha.jpg",
+    "bytes": 289836,
+    "sha256": "ed41f7673da37c8476243cdfb03fc0b10ad99134c149d31cf4c0e7b7ca4ff9ed",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Satyendra ojha1.jpg",
+    "bytes": 2746,
+    "sha256": "3edc14a4a5f6d2c001b9382eabc870a1021ec77cf5647cb1ca2406908097efd5",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Shailesh Tripathi.jpg",
+    "bytes": 5370,
+    "sha256": "50b5b747f7b7a1ed3a21898ffba440066ac3e250ee2b80187dbd76103f2b124d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Shop.png",
+    "bytes": 731031,
+    "sha256": "b67071a8b87276c0d5c0b45e713a98700ccb23c4ee6e481b26f97081c3d457bd",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Sri Krishan Vilas1.mp4",
+    "bytes": 81903469,
+    "sha256": "7a0bebbd2d6c8a4afd61a7a24d85d3a9694bcf13397dbbaf583f680dbbc15715",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Sri Krishna Vilas.pdf",
+    "bytes": 4577624,
+    "sha256": "44ab79197a36ac1992c56d14c49dce43e50e7323c63a42c152c7fbbd20951531",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Sri Krishna Vilas.png",
+    "bytes": 79401,
+    "sha256": "a998fc91c6c83da53da8434fec48204582680dd64b974e1cf06c02999535e354",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/TT.jpg",
+    "bytes": 41212,
+    "sha256": "da0c02925ce840fbdf599493032bbbbef6864f2f30710443ad8e9ea5e9392368",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/The Kashi Residency.jpeg",
+    "bytes": 28243,
+    "sha256": "157cf631dc9d5643717beae77ef134211c0c93ca83b4d3b11ccc7271fd088d2b",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Untitled-2-1.jpg",
+    "bytes": 256052,
+    "sha256": "be12ce46024a7269571ce97156517b1496f09eb84b894244da48425175d1840a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Untitled-2.jpg",
+    "bytes": 256052,
+    "sha256": "be12ce46024a7269571ce97156517b1496f09eb84b894244da48425175d1840a",
+    "duplicateOf": "../siplgroup/New Image/Untitled-2-1.jpg"
+  },
+  {
+    "path": "../siplgroup/New Image/Untitled-4.jpg",
+    "bytes": 545026,
+    "sha256": "90dd8489425783f0eea28d5e4642a5ff6faa0c2ccd29b9ab44a1e18c98c2af79",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Untitled-5.jpg",
+    "bytes": 271876,
+    "sha256": "d866249674ea2a97a220182e4634b431db76f4c1ed8f930e15b0bcbf9799479f",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/View06(1).jpg",
+    "bytes": 341320,
+    "sha256": "b5db987f6896201de0f4ea353a75eb777e768e41d0d4b6556420bfb9aa781b67",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/Vyomika Pathak.jpg",
+    "bytes": 120959,
+    "sha256": "b23debf731a6590b06c2218675b83086d8717c7c2e7b552c55e684663b064e6a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/WhatsApp Image 2023-07-04 at 3.04.00 PM.jpeg",
+    "bytes": 2718,
+    "sha256": "a64fbd9019b7d9668b47d8b3e206eba9dae4a089735eb159830e3a7eb42c790c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/WhatsApp Image 2023-07-05 at 2.03.33 PM.jpeg",
+    "bytes": 2309,
+    "sha256": "e69d7df551b2bfd6fbcd68af9084efa370772b5216b1615b67dd3a554a6b3155",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/aditya-prakash-rJcakYQpxkw-unsplash copy.jpg",
+    "bytes": 137043,
+    "sha256": "d79edaf4aded880c4044a8280e183560924d0a34bf150b7f6f9c7cd6208510da",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/aditya-prakash-rJcakYQpxkw-unsplash.jpg",
+    "bytes": 37146,
+    "sha256": "0d9a54e531091c951d5ed58eb360a489277341c6a1e74495bfd129d93ba17b45",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/aimanness-harun-_rxWnmOZ4YA-unsplash.jpg",
+    "bytes": 46681,
+    "sha256": "b3950a88508c36f1e7af92c5b95f2163fae65b92ff89f2be345d8f78c954d47a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/bannerbg.jpg",
+    "bytes": 4470,
+    "sha256": "aa68459e44743ee974257c4ca30f7c847bf4c89ad81168e402358ee0a508184d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/bedroom.jpg",
+    "bytes": 45118,
+    "sha256": "62cc5b6ee66bbec0e02bb58c3f24220e1cca29ad8453e5fbc5dd65d016357ddf",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/bg-pattern.webp",
+    "bytes": 60240,
+    "sha256": "e128152ba772c6f984690b8ea1821e7fda3f6d7ca44bee3f34a75b4a5e039c54",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/bigstock-Construction-Engineers-Discuss-288921388-1.jpg",
+    "bytes": 26639,
+    "sha256": "8c2b138a90d327e77d04e8c525796fa41664242a1d326d85aac87f2e80d7e296",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/buidling1.jpg",
+    "bytes": 4075,
+    "sha256": "062f38e2ade4d510835188abe24585b2a7cee5af8e73657d25588fb6db34a462",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/cgi-and-how-its-revolutionizing-real-estate-marketing-banner.jpg",
+    "bytes": 4864,
+    "sha256": "f9cbd138c1eea96cb287542dcdedcae5be19e65311cc7a598815a4e4c53acc4e",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/confrance-room-1.png",
+    "bytes": 1841011,
+    "sha256": "89a22d75ceef6bb9a38cb865df8503f0c917fb7f2124e05649edfb0e2074ad93",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/cropped-Untitled-1.png",
+    "bytes": 18520,
+    "sha256": "3f765818035e06ed801431f826dc7845b432d7326cab46dd3ab5a4ad65a91ae1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/cropped-cropped-cropped-Png-1.png",
+    "bytes": 38880,
+    "sha256": "0940140a547d4a6c42835110ac317744154fb2b6a07f1a5d7dba9817f56eb1cd",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/erik-mclean-TIEQiPp3e9A-unsplash.jpg",
+    "bytes": 67105,
+    "sha256": "d203576d982912e1f40db1d00cf3e01b1cd5aca37ad66108115a6836928ab969",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/fdb4128e-a5cc-4f18-bf97-8e951bc14a7f.avif",
+    "bytes": 40134,
+    "sha256": "a81da0a17931df9bea1a74a9124bc5a17fcd82e8bda206a83d2bbe00d6d81a29",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/front-view_Day-exterior-view.png",
+    "bytes": 627230,
+    "sha256": "29f4235e4a26d9f648324018e5f0f372a86b1aca0f770e75fb491f3e69f13c9a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/g.png",
+    "bytes": 65827,
+    "sha256": "ff8429b58970db0bf85ce2e83d9b0766c69072afd3033e8893059b22ae5aeb00",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/g1.png",
+    "bytes": 200724,
+    "sha256": "6a150b7fd46bc74d3d6cf9a2b427ad1136e46f2561bfb6345277fb3442619256",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/image.jpg",
+    "bytes": 110782,
+    "sha256": "74a6ea1514e8e9d76bf88b422f8da260a937e7ed0e4a7348724b095a66933378",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/image1.jpg",
+    "bytes": 151864,
+    "sha256": "40e19f590ccf546dadc304e881b81db01b57786ed6e808b051701b982acbc530",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/image2.jpg",
+    "bytes": 113077,
+    "sha256": "c707961f6f31b1ace4a9a43d3a8d8aac6195f483d0e611999eb83eaf00b9c6ac",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/living-room.jpg",
+    "bytes": 46637,
+    "sha256": "8ab2ecfb35438db4ca34ed986600472c921d5c179d1e345d186d508ab3d70115",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/lobby.png",
+    "bytes": 1029165,
+    "sha256": "1cd7405611049b2470146692a07e538d0541f63396b449ee4e341aa49105d837",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/logo Change.png",
+    "bytes": 61005,
+    "sha256": "0a8395e69d9b97ace59d30d9d6d86bad08cac51e2d8489aa46dbe519049c0123",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/logo-Icon.png",
+    "bytes": 12835,
+    "sha256": "6c21c0929ccdf66690a93f8e14c3da7aa8fca2daf34a96dfe77b52ad03be99d9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/missionimg1.jpg",
+    "bytes": 8051,
+    "sha256": "06c080595b82ff90f77cfd28237114a98e0075329e89faffe57932d18beb55e0",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/open-theater-scaled.jpg",
+    "bytes": 357921,
+    "sha256": "91737f27f5375fb747c3de3b3b34f036d08c6822186ef0bc7e68f18e1a84fa05",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/our_group.png",
+    "bytes": 85126,
+    "sha256": "f68e3ea38325f17c7de237b5519b43e3fe5b278b6ceec751c51af64e6f4b02b6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/projbg.jpg",
+    "bytes": 284306,
+    "sha256": "06e38b4a5324df7f9f5ce06b06efe1634544a10b5bdbe80b8e1113e6b0cc1a3d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/rajat-sarki-akSG4TrVhr0-unsplash.jpg",
+    "bytes": 14369,
+    "sha256": "204cce847146cbdba6a1dcbd1a5a4c38d460604bccda9b181aa9fb875abaded4",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/real-estate-8.jpg",
+    "bytes": 602697,
+    "sha256": "e9327aab9a29e04ecc0ddcf8b0e47d12b3b7ab64b63c98b4fe85d62985e95df1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/real-estate-property-night-view-sttah8uqfyoch8ln.jpg",
+    "bytes": 125112,
+    "sha256": "a5d4a4ba93a4edaa663067dc8c3f102c6c1675c0b31a23c51320b5e08ad34e28",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/salman-hossain-saif-fO2764zskEQ-unsplash (1).jpg",
+    "bytes": 11989,
+    "sha256": "d65add286bcebf4d5bda3c617011c9e853a363076dbc22ddf137445ed595de43",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/security-guard-residential-building-782x522.jpg",
+    "bytes": 4040,
+    "sha256": "0e87733a8c80dd513114a20fc4945743b35db0a037236d35a5d1b718dbf0a3c1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/sitting and pool area.jpg",
+    "bytes": 37917,
+    "sha256": "e5580f252e032064be66bccb94a9b3e59078dc77d5fc3797300483f8f1a73926",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/slider_1.jpg",
+    "bytes": 1147761,
+    "sha256": "48253d7635877a7fe95651b6c0e5a8d0b0a37e9b12a089822e64076b446c9ada",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/slider_2.jpg",
+    "bytes": 648785,
+    "sha256": "aaa4c98a2de137965788c79be57917e94fa89d22e50f27b72c387e0c2af9e1d2",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/slider_4.jpg",
+    "bytes": 758972,
+    "sha256": "ffab3affe17e15ee0217dcc990455b6b1b40c3d6216afde628ff1877ecb3cd20",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/srivatsan-balaji-T5s48osIQTU-unsplash.jpg",
+    "bytes": 123090,
+    "sha256": "14eb4b60bfe976fbb57328adf05725ec8eca1dc5866f3bfe053b626b12f5c4c5",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/thequint_2022-11_8ffc5d31-cb46-4cd5-8c53-c44b6d3b33a1_Screenshot_2022_11_08_103642.webp",
+    "bytes": 266862,
+    "sha256": "32cf06e3c46193fd6db50936076a9adf5168b4c24da27430cfb2021986b80fb3",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/touchscreen-contact-us-ltz8dds3tfeqcgw2.jpg",
+    "bytes": 3578,
+    "sha256": "8aa3a8b14911debd621cfa89fcb4d80658bfdf9f562a61c176b6ea544aa7b8a1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s880.png",
+    "bytes": 115005,
+    "sha256": "385b900085ee27687f1064bdaab90c20869c27a9ace491ed5ca9b3aaaabb6b08",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s881.png",
+    "bytes": 128370,
+    "sha256": "dc7adcd424e9282c57b9108ef7158c9579c8611f49e71c77562ea1e4d18f1604",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s882.png",
+    "bytes": 65707,
+    "sha256": "17b7d965d82ac27ea0edcc78a206f236a7fd5e758fc5861917d9af3a107e3021",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s883.png",
+    "bytes": 62904,
+    "sha256": "616007dae67daee977bee0d27198690a6b24d8a3d3fe194bc9fd2ba227cd467d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s884.png",
+    "bytes": 126697,
+    "sha256": "9112f0412906d8277bee0fbae23934f1af7e39477be2c4ef3124acd919d573c1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/vlcsnap-2022-07-23-21h22m29s575.png",
+    "bytes": 21776,
+    "sha256": "7de2a17dd72c32de9733307dbecb6fa7b6557966fafc9b69f4359c68e0de1add",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/west-north-side-view.png",
+    "bytes": 654985,
+    "sha256": "c33a13a42eb66b4af570a98155b2b9f1fe62994a3d94e586ce1841683f10fd34",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/New Image/zac-ong-JHN1-mpgXjo-unsplash.jpg",
+    "bytes": 60875,
+    "sha256": "4ea0b7e1a6e8424582425aa0bb61822e6e64c4bf68e6258970a773a555266ad9",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/bootstrap.css",
+    "bytes": 46081,
+    "sha256": "7f7e86ea04cf47b4f1bbb94e666d144b57057374c63ed1f53bcab597b911efb6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/bootstrap.min.css",
+    "bytes": 29381,
+    "sha256": "ee293e916283d9c06241b57d2f9b4e331961bb6acf5a461531fcd3c67e22d35d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/footer.php",
+    "bytes": 9107,
+    "sha256": "27b1d00a009039c2cec05b0eabe66f4872836dd7a3ca9a54995c915bfd905b6d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/functions.php",
+    "bytes": 1740,
+    "sha256": "9c318b7a7169395ff66a0323aef1398efc507a21523e7f00d75b0fc4e94ecfb6",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/header.php",
+    "bytes": 11333,
+    "sha256": "3b9b5c5383a2bae492a2ca0e31d8dde81461eefa2b1eafa832fd37259df1e13c",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/img/1 (2).jpeg",
+    "bytes": 10053,
+    "sha256": "c66b360f006c2f26f37229725cf25a47045970f4f156e4fe62d25c54e18e0376",
+    "duplicateOf": "../siplgroup/New Image/1 (2).jpeg"
+  },
+  {
+    "path": "../siplgroup/img/1 (4).jpeg",
+    "bytes": 16385,
+    "sha256": "29132dff197b97aee26c1d9803e8f5b6ca677e5f938a72e91d6216f4e970ec8c",
+    "duplicateOf": "../siplgroup/New Image/1 (4).jpeg"
+  },
+  {
+    "path": "../siplgroup/img/1 (5).jpeg",
+    "bytes": 15475,
+    "sha256": "d174af3bdac3f702c57394af1477f147732fe6935e4d2d6e53ffd070196b7e68",
+    "duplicateOf": "../siplgroup/New Image/1 (5).jpeg"
+  },
+  {
+    "path": "../siplgroup/img/1 (6).jpeg",
+    "bytes": 14341,
+    "sha256": "be303e3ac9e7dc575fae106d0ac7f0dc7ac1ecbef16b30d32a05b0391f8db69b",
+    "duplicateOf": "../siplgroup/New Image/1 (6).jpeg"
+  },
+  {
+    "path": "../siplgroup/img/1 (7).jpeg",
+    "bytes": 12658,
+    "sha256": "1e233d7ef27074d760cb42702b456f14678ae17603af5bb2248f87fc587cbd72",
+    "duplicateOf": "../siplgroup/New Image/1 (7).jpeg"
+  },
+  {
+    "path": "../siplgroup/img/1(1).jpg",
+    "bytes": 10344,
+    "sha256": "99079588cd1fb48f0d52daccdb8fcec5dc885e33fc04f0f5f05f891e446af3c7",
+    "duplicateOf": "../siplgroup/New Image/1(1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/1.jpg",
+    "bytes": 16682,
+    "sha256": "817adb155aa91b31104ab66c459f3cec3099ce20249338da18d5074fea50f348",
+    "duplicateOf": "../siplgroup/New Image/1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/10.jpg",
+    "bytes": 15431,
+    "sha256": "56e83d4591f8d492f6fbb3731f08bc9bef9b4181051ebf66e54af64d4619ebca",
+    "duplicateOf": "../siplgroup/New Image/10.jpg"
+  },
+  {
+    "path": "../siplgroup/img/11.jpg",
+    "bytes": 15742,
+    "sha256": "1f4bf81284e1fc8205c119d855c79f4dc3ee1f4ccf003a6f23335ff53281e0d1",
+    "duplicateOf": "../siplgroup/New Image/11.jpg"
+  },
+  {
+    "path": "../siplgroup/img/12.jpg",
+    "bytes": 15731,
+    "sha256": "7a8254a61edfd5548040a254d9f0681cae0e023ba888f5f990290707218e9c2d",
+    "duplicateOf": "../siplgroup/New Image/12.jpg"
+  },
+  {
+    "path": "../siplgroup/img/13.jpg",
+    "bytes": 13786,
+    "sha256": "da514a2851ba1c2e3a79f2eacbfd107518eb4d7c56c61a087058ce4dd3c10472",
+    "duplicateOf": "../siplgroup/New Image/13.jpg"
+  },
+  {
+    "path": "../siplgroup/img/14.jpg",
+    "bytes": 13658,
+    "sha256": "b64e3cb80d3c5b316ae98a25c2f53744c1d1f8522b8bbc8414d5c5d6d643d560",
+    "duplicateOf": "../siplgroup/New Image/14.jpg"
+  },
+  {
+    "path": "../siplgroup/img/15.jpg",
+    "bytes": 14203,
+    "sha256": "c3c32294df3a236711098357c54d790fe2011d3ec7c87c65f131f0a298c6b275",
+    "duplicateOf": "../siplgroup/New Image/15.jpg"
+  },
+  {
+    "path": "../siplgroup/img/16.jpg",
+    "bytes": 14629,
+    "sha256": "5706701ccdbcb3b0eff75192116906dc2db83395005f51817c73dedb45439e91",
+    "duplicateOf": "../siplgroup/New Image/16.jpg"
+  },
+  {
+    "path": "../siplgroup/img/17.jpg",
+    "bytes": 14807,
+    "sha256": "f035721779be35cb97bce48f44c8c427e36c4ceb5e9adc9b3782bb5448bc52a0",
+    "duplicateOf": "../siplgroup/New Image/17.jpg"
+  },
+  {
+    "path": "../siplgroup/img/18.jpg",
+    "bytes": 16433,
+    "sha256": "f0b4ee8fe1868c4ab05625958ce1a021260ed17c14560e4e8d2f1c3177b6eb45",
+    "duplicateOf": "../siplgroup/New Image/18.jpg"
+  },
+  {
+    "path": "../siplgroup/img/19.jpg",
+    "bytes": 15533,
+    "sha256": "d692d2d602af2890da0f11d434db4053c5e5411378abf57fa1869f503695f2f9",
+    "duplicateOf": "../siplgroup/New Image/19.jpg"
+  },
+  {
+    "path": "../siplgroup/img/1b6d4365-364f-4a81-acf1-5c7f58c928f5.jpg",
+    "bytes": 5393,
+    "sha256": "8ec284c157cb0cbaac6ea23a3900b17ef74d668fd9a27b563cc4b6ce06f9ffb3",
+    "duplicateOf": "../siplgroup/New Image/1b6d4365-364f-4a81-acf1-5c7f58c928f5.jpg"
+  },
+  {
+    "path": "../siplgroup/img/1square.jpg",
+    "bytes": 10945,
+    "sha256": "ff56254c8a21913ac3ec95b36dff04848b1455349f88f2f84a405d640eb9f56c",
+    "duplicateOf": "../siplgroup/New Image/1square.jpg"
+  },
+  {
+    "path": "../siplgroup/img/2 (1).jpg",
+    "bytes": 915858,
+    "sha256": "415806c613dee2be64af1633f9a0908c7c0e4fe640f4d899965d6baf344b312d",
+    "duplicateOf": "../siplgroup/New Image/2 (1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2 (2).jpg",
+    "bytes": 1243042,
+    "sha256": "2e730e6a9721896118c48d0802ee226da0a178ce6408a22809aa4ca7be9f31be",
+    "duplicateOf": "../siplgroup/New Image/2 (2).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2 (3).jpg",
+    "bytes": 1639251,
+    "sha256": "d054f97fc437c70bf138ecac211cfd640a34fd5e5e3e24fb4d1ae3058071cb4b",
+    "duplicateOf": "../siplgroup/New Image/2 (3).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2 (4).jpg",
+    "bytes": 1567760,
+    "sha256": "c4f8f438795578f5893ab2492693c16b98061f5ff5607429fc65cc8b15cc893d",
+    "duplicateOf": "../siplgroup/New Image/2 (4).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2 (5).jpg",
+    "bytes": 1629041,
+    "sha256": "278b55c1ba6e52e5de630c8a0ed1ea30f3e3ceca8bffa17bf1e5f8c2bf5dd87c",
+    "duplicateOf": "../siplgroup/New Image/2 (5).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2 (6).png",
+    "bytes": 647464,
+    "sha256": "74f1bcbf83f7642169b119289b644c9d56b499a94fe9f848963a93fc83b58c3f",
+    "duplicateOf": "../siplgroup/New Image/2 (6).png"
+  },
+  {
+    "path": "../siplgroup/img/2 (7).png",
+    "bytes": 249503,
+    "sha256": "24df773ea12797934b6591b1f09fe0ccfe544ae365989467e4da4ed93ea86ce4",
+    "duplicateOf": "../siplgroup/New Image/2 (7).png"
+  },
+  {
+    "path": "../siplgroup/img/2 (8).png",
+    "bytes": 7627576,
+    "sha256": "fc013c4786454ffa3c7d1316765038ea9c5c40c451b64f7280e6d5e4cb9636bd",
+    "duplicateOf": "../siplgroup/New Image/2 (8).png"
+  },
+  {
+    "path": "../siplgroup/img/2 (9).jpg",
+    "bytes": 1676159,
+    "sha256": "d2a84f2d9f6c6ea77f3d09d720bd3979e47c6ffe6e352ba7e0daa2b9eb89c49a",
+    "duplicateOf": "../siplgroup/New Image/2 (9).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2(1).jpg",
+    "bytes": 12310,
+    "sha256": "58bd73a374903cca5cb66c2d2ba545d527b5c622c70c4b1d1e4e000d8b465903",
+    "duplicateOf": "../siplgroup/New Image/2(1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/2.jpg",
+    "bytes": 16748,
+    "sha256": "4142379e424085654e9aa5060fe970b1f022b7a4aec731bad50ecd4cfde4469d",
+    "duplicateOf": "../siplgroup/New Image/2.jpg"
+  },
+  {
+    "path": "../siplgroup/img/2square.jpg",
+    "bytes": 10945,
+    "sha256": "6fb3456cc583d7b24d5bad3000d5346a1144eba32197e89854fb699c6121ff33",
+    "duplicateOf": "../siplgroup/New Image/2square.jpg"
+  },
+  {
+    "path": "../siplgroup/img/3(1).jpg",
+    "bytes": 9303,
+    "sha256": "709cc0549090e214bfe87c0fcab2fa97c30c2216979af4e47cd8d684b725e342",
+    "duplicateOf": "../siplgroup/New Image/3(1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/3.jpg",
+    "bytes": 14630,
+    "sha256": "7ebf2805dabfc5fe5cc071b6431f8bc6edd477ab82df29a257bcf33bce424a5c",
+    "duplicateOf": "../siplgroup/New Image/3.jpg"
+  },
+  {
+    "path": "../siplgroup/img/3square.jpg",
+    "bytes": 10945,
+    "sha256": "5815d1704d74f196877edac072473feb4aac79808905db49850de78347f66978",
+    "duplicateOf": "../siplgroup/New Image/3square.jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (1).jpg",
+    "bytes": 203160,
+    "sha256": "1dbe0f72526aa8901aa9797cc5253d171e02a8c6128a32809c071e3411fc3ead",
+    "duplicateOf": "../siplgroup/New Image/4 (1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (10).jpg",
+    "bytes": 254185,
+    "sha256": "e5ec57285e5174eda8cc3dce804b910d15a0cdb4d7b00dbbbf105ee5340bae7d",
+    "duplicateOf": "../siplgroup/New Image/4 (10).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (11).jpg",
+    "bytes": 250532,
+    "sha256": "ffe4638fcdc1bbb159a0f8ce21461e96407c8a7cc923e10dd307929f3afb37f9",
+    "duplicateOf": "../siplgroup/New Image/4 (11).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (12).jpg",
+    "bytes": 340834,
+    "sha256": "b51c642a5367917a96f2a620ea187110ff049360df21eca8fb5b545c6c7e67c9",
+    "duplicateOf": "../siplgroup/New Image/4 (12).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (13).jpg",
+    "bytes": 334307,
+    "sha256": "1aba5f4f9a342650a6d18ac75dacbf3b17418756569d05ababb05ba901bb9acd",
+    "duplicateOf": "../siplgroup/New Image/4 (13).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (14).jpg",
+    "bytes": 430730,
+    "sha256": "f72a9e4ec128c88512a7876c66e985aa4fab4954e11e492cc423e5de6ca5dd5e",
+    "duplicateOf": "../siplgroup/New Image/4 (14).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (15).jpg",
+    "bytes": 287659,
+    "sha256": "2486ec6e6526b0158fe4a0d8565767a01c249a5e3650bea86d62a290e3394ebf",
+    "duplicateOf": "../siplgroup/New Image/4 (15).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (16).jpg",
+    "bytes": 177495,
+    "sha256": "b197b850d8a92d34861c652a4120a96926524ed7387c620df005f04e7191b1f1",
+    "duplicateOf": "../siplgroup/New Image/4 (16).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (17).jpg",
+    "bytes": 480123,
+    "sha256": "d27de5340ce5062ba44cf1a7742b6a1be88d5cdc7b512296cb985b8e343dbb84",
+    "duplicateOf": "../siplgroup/New Image/4 (17).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (18).jpg",
+    "bytes": 545711,
+    "sha256": "29a03d628124eb98133506ac77d31e2a6e1727c590ea06e7947e21f7e8bbb984",
+    "duplicateOf": "../siplgroup/New Image/4 (18).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (19).jpg",
+    "bytes": 395748,
+    "sha256": "4b08f348aae5dbbc5e7810f92cfdcd4209ba0961d91848fcf9ab685791082a99",
+    "duplicateOf": "../siplgroup/New Image/4 (19).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (2).jpg",
+    "bytes": 166190,
+    "sha256": "f3302051bb7c0216d0e3d74d5eb3ef6f36b94898f2541754f199bd2d8b8e8481",
+    "duplicateOf": "../siplgroup/New Image/4 (2).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (20).jpg",
+    "bytes": 309859,
+    "sha256": "252bc03a68562d119cd93ca00b9f056a3782a914a0d012aa3a34e5c53c0c8d91",
+    "duplicateOf": "../siplgroup/New Image/4 (20).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (21).jpg",
+    "bytes": 240621,
+    "sha256": "97374f8f36f7a1dd59e6cde711613ccc735065f59153526ea2b9b798bf409061",
+    "duplicateOf": "../siplgroup/New Image/4 (21).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (22).jpg",
+    "bytes": 296448,
+    "sha256": "1cb969c0c76bcd602bff1a8e0c3c7aadc33d50655c592d9d2318d4928802ca1f",
+    "duplicateOf": "../siplgroup/New Image/4 (22).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (23).jpg",
+    "bytes": 204350,
+    "sha256": "43ac7c53108eead72e47eff506808b325f6b50a1423588196c829f9232962bb6",
+    "duplicateOf": "../siplgroup/New Image/4 (23).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (24).jpg",
+    "bytes": 417808,
+    "sha256": "87476d2f39ac6bf34acd5f0926f0a37d160f0c6dc52f159cd5833f6d73032026",
+    "duplicateOf": "../siplgroup/New Image/4 (24).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (25).jpg",
+    "bytes": 104806,
+    "sha256": "0a4d66e026b25f81b1252f47869ecbc928714191b2f03e396d51686e6a2fad95",
+    "duplicateOf": "../siplgroup/New Image/4 (25).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (26).jpg",
+    "bytes": 122687,
+    "sha256": "3d36205672d601379d74dcad9429d6370a586ae7dd524bf212eb44f8cdc1febb",
+    "duplicateOf": "../siplgroup/New Image/4 (26).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (27).jpg",
+    "bytes": 262248,
+    "sha256": "86b8455b256e787b66d09dd0fd6c942f42d1d493c7e11f2d75d030bf3bc0356d",
+    "duplicateOf": "../siplgroup/New Image/4 (27).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (3).jpg",
+    "bytes": 320656,
+    "sha256": "074841c2a6c5b6a3b7aa94ce3cdced5cfa65ce8b170385fb53884106f44c0e26",
+    "duplicateOf": "../siplgroup/New Image/4 (3).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (4).jpg",
+    "bytes": 251473,
+    "sha256": "0082805643f717c0acde1a3d256dedfd4ecf65a05a04a4271ef7e9b90cbf9d90",
+    "duplicateOf": "../siplgroup/New Image/4 (4).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (5).jpg",
+    "bytes": 315411,
+    "sha256": "ea1664cc36f64c461ad4d64cc3beca119c890d92c98f89463d4f6d339b616002",
+    "duplicateOf": "../siplgroup/New Image/4 (5).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (6).jpg",
+    "bytes": 315674,
+    "sha256": "4b300bb8e973520cd23ff23938cb0ae67af1feb77beec7894915c1d530b375b8",
+    "duplicateOf": "../siplgroup/New Image/4 (6).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (7).jpg",
+    "bytes": 307597,
+    "sha256": "d9d06b453bb50ca414879cdf0006aafa8aac916a3feedca6ce262ccd6de0e108",
+    "duplicateOf": "../siplgroup/New Image/4 (7).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (8).jpg",
+    "bytes": 292169,
+    "sha256": "7ffb4386898c2e358f9c90cee4c49f4e521fec41661e3fc907af370a2e4a1ae7",
+    "duplicateOf": "../siplgroup/New Image/4 (8).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4 (9).jpg",
+    "bytes": 260311,
+    "sha256": "73094b52fbf317904ce43483de94ad4b41757a22605cf5723b9410c4a14f3aa7",
+    "duplicateOf": "../siplgroup/New Image/4 (9).jpg"
+  },
+  {
+    "path": "../siplgroup/img/4.jpg",
+    "bytes": 14879,
+    "sha256": "2120e862cc209dc20451259ee94d0d2b8bdc098c82cd1a793570c89f55ee6d7c",
+    "duplicateOf": "../siplgroup/New Image/4.jpg"
+  },
+  {
+    "path": "../siplgroup/img/4square.jpg",
+    "bytes": 10945,
+    "sha256": "fb0893dc4edbd036f7ce30a37dd6bbe28abd7abf7fae218c94839b33e61081a9",
+    "duplicateOf": "../siplgroup/New Image/4square.jpg"
+  },
+  {
+    "path": "../siplgroup/img/5.jpg",
+    "bytes": 14018,
+    "sha256": "6421da45becec7220c22974091cd8205853ad0cb6fe1ec9844ad526f8bacc546",
+    "duplicateOf": "../siplgroup/New Image/5.jpg"
+  },
+  {
+    "path": "../siplgroup/img/6.jpg",
+    "bytes": 13468,
+    "sha256": "fa1845895beaf573d372d78f4773bacc297f7bf0f51a38d6dc0f32c865261530",
+    "duplicateOf": "../siplgroup/New Image/6.jpg"
+  },
+  {
+    "path": "../siplgroup/img/61899840-a8b8-4bad-a67d-b50dd2e561ad.avif",
+    "bytes": 55860,
+    "sha256": "95c9b440db17ed463e087167940ba6cebec4199172e34b330780e06106f4a69a",
+    "duplicateOf": "../siplgroup/New Image/61899840-a8b8-4bad-a67d-b50dd2e561ad.avif"
+  },
+  {
+    "path": "../siplgroup/img/7.jpg",
+    "bytes": 16812,
+    "sha256": "5ce502ef1ba61a9292b5a8f89e639a98002151ae93115fbf72ed316b9426d1e2",
+    "duplicateOf": "../siplgroup/New Image/7.jpg"
+  },
+  {
+    "path": "../siplgroup/img/725449-gyms-open-air-090118.jpg",
+    "bytes": 11788,
+    "sha256": "c828f7983e78d79ea77652641ba528c508b5e6dfb8511df6fc88d73b6ddd8c75",
+    "duplicateOf": "../siplgroup/New Image/725449-gyms-open-air-090118.jpg"
+  },
+  {
+    "path": "../siplgroup/img/8.jpg",
+    "bytes": 15289,
+    "sha256": "e165c333c01fdddb799a29eb7fc5357ebfab689037ee894ac3c67aa7102b3dce",
+    "duplicateOf": "../siplgroup/New Image/8.jpg"
+  },
+  {
+    "path": "../siplgroup/img/9.jpg",
+    "bytes": 16164,
+    "sha256": "228fd29fea1d1f4be68ecd1ab6e980fcad4105b6cbb96ea9c3d034e587ee5287",
+    "duplicateOf": "../siplgroup/New Image/9.jpg"
+  },
+  {
+    "path": "../siplgroup/img/934e5642-f7ee-4caa-b97a-e8f7e027b921.avif",
+    "bytes": 48237,
+    "sha256": "0f33290895ddbb21451022077da0812eaf7098dbc32b59fe7adfe54ae477abfc",
+    "duplicateOf": "../siplgroup/New Image/934e5642-f7ee-4caa-b97a-e8f7e027b921.avif"
+  },
+  {
+    "path": "../siplgroup/img/9edit.jpg",
+    "bytes": 33843,
+    "sha256": "caa8e363c8c6b040f5891e8f7da64ab54707bae5f873737e644c841dea8505f6",
+    "duplicateOf": "../siplgroup/New Image/9edit.jpg"
+  },
+  {
+    "path": "../siplgroup/img/ABOUT_US",
+    "bytes": 897502,
+    "sha256": "b98407280ed50ebf9765bc980783430f4dfd5e22836a89eb1cddf71b9d2c9496",
+    "duplicateOf": "../siplgroup/New Image/ABOUT_US"
+  },
+  {
+    "path": "../siplgroup/img/Ar. Amit Kumar Gupta.jpg",
+    "bytes": 6719,
+    "sha256": "cad739c01bcd47f2c08ec2304b6859e2aa5873c970f1833a7a816268fac885d4",
+    "duplicateOf": "../siplgroup/New Image/Ar. Amit Kumar Gupta.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Ca Vishal Singh.jpg",
+    "bytes": 2987,
+    "sha256": "a0bd3404fc91226fef8e4d504b592777a3cfefcb0736819ae43fe1346dab7e1a",
+    "duplicateOf": "../siplgroup/New Image/Ca Vishal Singh.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Cam_Day (1).jpg",
+    "bytes": 181837,
+    "sha256": "ae3fed1987469103036298d70d16caf1dd52939a45512332a599e74ea2617401",
+    "duplicateOf": "../siplgroup/New Image/Cam_Day (1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/Chandan1.jpg",
+    "bytes": 6661,
+    "sha256": "a70d112ca4d73a806c64b960bf6bd3dfe1b636972c78e6f1537b14625c32d6af",
+    "duplicateOf": "../siplgroup/New Image/Chandan1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Deepak Arya.jpeg",
+    "bytes": 3296,
+    "sha256": "375e1892101cff16dbeeb038681caf7f867abbbb8bb6f297afda370eb43da5c5",
+    "duplicateOf": "../siplgroup/New Image/Deepak Arya.jpeg"
+  },
+  {
+    "path": "../siplgroup/img/Deepak Arya1.jpg",
+    "bytes": 2938,
+    "sha256": "aac90fa99b31de00f242f30ade631c5456e1d52c538567aac56c9c2e0ac253b2",
+    "duplicateOf": "../siplgroup/New Image/Deepak Arya1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Devesh Tripathi.jpg",
+    "bytes": 3035,
+    "sha256": "355fdc0f382094775d7a71caf3ed58808def5fe93beb466377b1ad21d704e2d0",
+    "duplicateOf": "../siplgroup/New Image/Devesh Tripathi.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Devesh Tripathi1.jpg",
+    "bytes": 4746,
+    "sha256": "222767e2aa681c2bcb3587a7d669832b098928aea17dc366f4bf8c6eaaef6125",
+    "duplicateOf": "../siplgroup/New Image/Devesh Tripathi1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Event3.jpg",
+    "bytes": 132157,
+    "sha256": "35ba97989071f11aa1de953e6c8916bf131822abb59b136ef55fc4a0889bad3e",
+    "duplicateOf": "../siplgroup/New Image/Event3.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Fg56XsRagAAq7K9.jpg_large",
+    "bytes": 269587,
+    "sha256": "79c0fcd45ec1fff835d00b4a920852d312658ed23fd3e2d26707c0c3187f192f",
+    "duplicateOf": "../siplgroup/New Image/Fg56XsRagAAq7K9.jpg_large"
+  },
+  {
+    "path": "../siplgroup/img/Fg56ZFGaEAAPEQH.jpg",
+    "bytes": 8767,
+    "sha256": "3f3b62eec4afb9a5b72f557469b11d95cf3ae6bdd648ed99c4c1f19803d63705",
+    "duplicateOf": "../siplgroup/New Image/Fg56ZFGaEAAPEQH.jpg"
+  },
+  {
+    "path": "../siplgroup/img/GYM.jpg",
+    "bytes": 51017,
+    "sha256": "55c517cfd7d0b109dc465ff84ac8e27aec1d75a3a549e1fe7ac6e2d3b0cf874d",
+    "duplicateOf": "../siplgroup/New Image/GYM.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Group3.png",
+    "bytes": 109095,
+    "sha256": "30d7a9c28abfada5d31d05b8d7c05bf5f51505ed5d7a50147b4837cf4783dd89",
+    "duplicateOf": "../siplgroup/New Image/Group3.png"
+  },
+  {
+    "path": "../siplgroup/img/Hr.jpeg",
+    "bytes": 33384,
+    "sha256": "a77ee95a3adde5229260f65ea8534885f57b1708796acbb21a0e5a13f7f06b57",
+    "duplicateOf": "../siplgroup/New Image/Hr.jpeg"
+  },
+  {
+    "path": "../siplgroup/img/JW_LosCabos_2015_MainExterior.webp",
+    "bytes": 236628,
+    "sha256": "be7d28ac68f496727dc25cb357feb65c3b2d4c58d2e650b4ca10ee77f94d5290",
+    "duplicateOf": "../siplgroup/New Image/JW_LosCabos_2015_MainExterior.webp"
+  },
+  {
+    "path": "../siplgroup/img/MEP.jpg",
+    "bytes": 405134,
+    "sha256": "cd974565c5f4d0e51a68202f6145f8e7afbc04694632c87f4e05480fd444f1de",
+    "duplicateOf": "../siplgroup/New Image/MEP.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Manasi Ganga.png",
+    "bytes": 31710,
+    "sha256": "0388a714663c8d87c45992bb8c47ee6d0b19b6c9ebfebf57ef77856e2edbc5a1",
+    "duplicateOf": "../siplgroup/New Image/Manasi Ganga.png"
+  },
+  {
+    "path": "../siplgroup/img/Manasi Gaura",
+    "bytes": 87757,
+    "sha256": "6f06562466e1933260bcaa840c3713474d8748985009134d0736e1f03de0f5a2",
+    "duplicateOf": "../siplgroup/New Image/Manasi Gaura"
+  },
+  {
+    "path": "../siplgroup/img/Manshia Gaura (1).jpeg",
+    "bytes": 8093,
+    "sha256": "a423499cf25a1f1ff249b8f6bcf8749fdda0171da0c27e3b88d6db2aba7b6553",
+    "duplicateOf": "../siplgroup/New Image/Manshia Gaura (1).jpeg"
+  },
+  {
+    "path": "../siplgroup/img/Project-image (1).jpg",
+    "bytes": 10032,
+    "sha256": "efb7215596858811a4b88f6bb1cce56390ed72c321e8e9343922e8ebfb786fd9",
+    "duplicateOf": "../siplgroup/New Image/Project-image (1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/Raj Deep Jain.jpg",
+    "bytes": 6142,
+    "sha256": "696d1f889bcf92dd4f1ec8df6bd202270c383c9fc044069ad5cc6cb73daa71c1",
+    "duplicateOf": "../siplgroup/New Image/Raj Deep Jain.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Raj kumar.jpg",
+    "bytes": 6295,
+    "sha256": "3f2ddf0f7e27b95cbd734f28a295ba4ab27769f5211b74b79e64c2cd277ae58f",
+    "duplicateOf": "../siplgroup/New Image/Raj kumar.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Rajanikant Upadhyay1.jpg",
+    "bytes": 1964,
+    "sha256": "fce69cd9e9b5974f20b05cfddf9ffab28c772cb4ef6cf1fb27b255a4031124ad",
+    "duplicateOf": "../siplgroup/New Image/Rajanikant Upadhyay1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Raman Reti.png",
+    "bytes": 58441,
+    "sha256": "5dce26f44f0b6752c645d5d3db00e36487d72b19d3f2fee78b99d7ecd97302f0",
+    "duplicateOf": "../siplgroup/New Image/Raman Reti.png"
+  },
+  {
+    "path": "../siplgroup/img/SIPL logo png.png",
+    "bytes": 42125,
+    "sha256": "0caf65847dfc5139b90613a76772edf08280d8e226128d58f95d3b673f01d31c",
+    "duplicateOf": "../siplgroup/New Image/SIPL logo png.png"
+  },
+  {
+    "path": "../siplgroup/img/SIPL logo png2.png",
+    "bytes": 41497,
+    "sha256": "0ed445bc2146b2bbf6d930574d6407f71f10e87f7fe8286e52a7077c388ed860",
+    "duplicateOf": "../siplgroup/New Image/SIPL logo png2.png"
+  },
+  {
+    "path": "../siplgroup/img/Sarvesh Tripathi",
+    "bytes": 50632,
+    "sha256": "7abb3f749dc16557c6ca7ad8cca31d84e25a3ae6bb20c59e38fe384314c08874",
+    "duplicateOf": "../siplgroup/New Image/Sarvesh Tripathi"
+  },
+  {
+    "path": "../siplgroup/img/Satyendra ojha.jpg",
+    "bytes": 289836,
+    "sha256": "ed41f7673da37c8476243cdfb03fc0b10ad99134c149d31cf4c0e7b7ca4ff9ed",
+    "duplicateOf": "../siplgroup/New Image/Satyendra ojha.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Satyendra ojha1.jpg",
+    "bytes": 2746,
+    "sha256": "3edc14a4a5f6d2c001b9382eabc870a1021ec77cf5647cb1ca2406908097efd5",
+    "duplicateOf": "../siplgroup/New Image/Satyendra ojha1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Shailesh Tripathi.jpg",
+    "bytes": 5370,
+    "sha256": "50b5b747f7b7a1ed3a21898ffba440066ac3e250ee2b80187dbd76103f2b124d",
+    "duplicateOf": "../siplgroup/New Image/Shailesh Tripathi.jpg"
+  },
+  {
+    "path": "../siplgroup/img/Sri Krishan Vilas1.mp4",
+    "bytes": 81903469,
+    "sha256": "7a0bebbd2d6c8a4afd61a7a24d85d3a9694bcf13397dbbaf583f680dbbc15715",
+    "duplicateOf": "../siplgroup/New Image/Sri Krishan Vilas1.mp4"
+  },
+  {
+    "path": "../siplgroup/img/Sri Krishna Vilas.pdf",
+    "bytes": 4577624,
+    "sha256": "44ab79197a36ac1992c56d14c49dce43e50e7323c63a42c152c7fbbd20951531",
+    "duplicateOf": "../siplgroup/New Image/Sri Krishna Vilas.pdf"
+  },
+  {
+    "path": "../siplgroup/img/Sri Krishna Vilas.png",
+    "bytes": 79401,
+    "sha256": "a998fc91c6c83da53da8434fec48204582680dd64b974e1cf06c02999535e354",
+    "duplicateOf": "../siplgroup/New Image/Sri Krishna Vilas.png"
+  },
+  {
+    "path": "../siplgroup/img/TT.jpg",
+    "bytes": 41212,
+    "sha256": "da0c02925ce840fbdf599493032bbbbef6864f2f30710443ad8e9ea5e9392368",
+    "duplicateOf": "../siplgroup/New Image/TT.jpg"
+  },
+  {
+    "path": "../siplgroup/img/The Kashi Residency.jpeg",
+    "bytes": 28243,
+    "sha256": "157cf631dc9d5643717beae77ef134211c0c93ca83b4d3b11ccc7271fd088d2b",
+    "duplicateOf": "../siplgroup/New Image/The Kashi Residency.jpeg"
+  },
+  {
+    "path": "../siplgroup/img/View06(1).jpg",
+    "bytes": 341320,
+    "sha256": "b5db987f6896201de0f4ea353a75eb777e768e41d0d4b6556420bfb9aa781b67",
+    "duplicateOf": "../siplgroup/New Image/View06(1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/Vyomika Pathak.jpg",
+    "bytes": 120959,
+    "sha256": "b23debf731a6590b06c2218675b83086d8717c7c2e7b552c55e684663b064e6a",
+    "duplicateOf": "../siplgroup/New Image/Vyomika Pathak.jpg"
+  },
+  {
+    "path": "../siplgroup/img/WhatsApp Image 2023-07-04 at 3.04.00 PM.jpeg",
+    "bytes": 2718,
+    "sha256": "a64fbd9019b7d9668b47d8b3e206eba9dae4a089735eb159830e3a7eb42c790c",
+    "duplicateOf": "../siplgroup/New Image/WhatsApp Image 2023-07-04 at 3.04.00 PM.jpeg"
+  },
+  {
+    "path": "../siplgroup/img/WhatsApp Image 2023-07-05 at 2.03.33 PM.jpeg",
+    "bytes": 2309,
+    "sha256": "e69d7df551b2bfd6fbcd68af9084efa370772b5216b1615b67dd3a554a6b3155",
+    "duplicateOf": "../siplgroup/New Image/WhatsApp Image 2023-07-05 at 2.03.33 PM.jpeg"
+  },
+  {
+    "path": "../siplgroup/img/aditya-prakash-rJcakYQpxkw-unsplash copy.jpg",
+    "bytes": 137043,
+    "sha256": "d79edaf4aded880c4044a8280e183560924d0a34bf150b7f6f9c7cd6208510da",
+    "duplicateOf": "../siplgroup/New Image/aditya-prakash-rJcakYQpxkw-unsplash copy.jpg"
+  },
+  {
+    "path": "../siplgroup/img/aditya-prakash-rJcakYQpxkw-unsplash.jpg",
+    "bytes": 37146,
+    "sha256": "0d9a54e531091c951d5ed58eb360a489277341c6a1e74495bfd129d93ba17b45",
+    "duplicateOf": "../siplgroup/New Image/aditya-prakash-rJcakYQpxkw-unsplash.jpg"
+  },
+  {
+    "path": "../siplgroup/img/aimanness-harun-_rxWnmOZ4YA-unsplash.jpg",
+    "bytes": 46681,
+    "sha256": "b3950a88508c36f1e7af92c5b95f2163fae65b92ff89f2be345d8f78c954d47a",
+    "duplicateOf": "../siplgroup/New Image/aimanness-harun-_rxWnmOZ4YA-unsplash.jpg"
+  },
+  {
+    "path": "../siplgroup/img/bannerbg.jpg",
+    "bytes": 4470,
+    "sha256": "aa68459e44743ee974257c4ca30f7c847bf4c89ad81168e402358ee0a508184d",
+    "duplicateOf": "../siplgroup/New Image/bannerbg.jpg"
+  },
+  {
+    "path": "../siplgroup/img/bedroom.jpg",
+    "bytes": 45118,
+    "sha256": "62cc5b6ee66bbec0e02bb58c3f24220e1cca29ad8453e5fbc5dd65d016357ddf",
+    "duplicateOf": "../siplgroup/New Image/bedroom.jpg"
+  },
+  {
+    "path": "../siplgroup/img/bg-pattern.webp",
+    "bytes": 60240,
+    "sha256": "e128152ba772c6f984690b8ea1821e7fda3f6d7ca44bee3f34a75b4a5e039c54",
+    "duplicateOf": "../siplgroup/New Image/bg-pattern.webp"
+  },
+  {
+    "path": "../siplgroup/img/bigstock-Construction-Engineers-Discuss-288921388-1.jpg",
+    "bytes": 26639,
+    "sha256": "8c2b138a90d327e77d04e8c525796fa41664242a1d326d85aac87f2e80d7e296",
+    "duplicateOf": "../siplgroup/New Image/bigstock-Construction-Engineers-Discuss-288921388-1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/buidling1.jpg",
+    "bytes": 4075,
+    "sha256": "062f38e2ade4d510835188abe24585b2a7cee5af8e73657d25588fb6db34a462",
+    "duplicateOf": "../siplgroup/New Image/buidling1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/cgi-and-how-its-revolutionizing-real-estate-marketing-banner.jpg",
+    "bytes": 4864,
+    "sha256": "f9cbd138c1eea96cb287542dcdedcae5be19e65311cc7a598815a4e4c53acc4e",
+    "duplicateOf": "../siplgroup/New Image/cgi-and-how-its-revolutionizing-real-estate-marketing-banner.jpg"
+  },
+  {
+    "path": "../siplgroup/img/erik-mclean-TIEQiPp3e9A-unsplash.jpg",
+    "bytes": 67105,
+    "sha256": "d203576d982912e1f40db1d00cf3e01b1cd5aca37ad66108115a6836928ab969",
+    "duplicateOf": "../siplgroup/New Image/erik-mclean-TIEQiPp3e9A-unsplash.jpg"
+  },
+  {
+    "path": "../siplgroup/img/fdb4128e-a5cc-4f18-bf97-8e951bc14a7f.avif",
+    "bytes": 40134,
+    "sha256": "a81da0a17931df9bea1a74a9124bc5a17fcd82e8bda206a83d2bbe00d6d81a29",
+    "duplicateOf": "../siplgroup/New Image/fdb4128e-a5cc-4f18-bf97-8e951bc14a7f.avif"
+  },
+  {
+    "path": "../siplgroup/img/g.png",
+    "bytes": 65827,
+    "sha256": "ff8429b58970db0bf85ce2e83d9b0766c69072afd3033e8893059b22ae5aeb00",
+    "duplicateOf": "../siplgroup/New Image/g.png"
+  },
+  {
+    "path": "../siplgroup/img/g1.png",
+    "bytes": 200724,
+    "sha256": "6a150b7fd46bc74d3d6cf9a2b427ad1136e46f2561bfb6345277fb3442619256",
+    "duplicateOf": "../siplgroup/New Image/g1.png"
+  },
+  {
+    "path": "../siplgroup/img/image.jpg",
+    "bytes": 110782,
+    "sha256": "74a6ea1514e8e9d76bf88b422f8da260a937e7ed0e4a7348724b095a66933378",
+    "duplicateOf": "../siplgroup/New Image/image.jpg"
+  },
+  {
+    "path": "../siplgroup/img/image1.jpg",
+    "bytes": 151864,
+    "sha256": "40e19f590ccf546dadc304e881b81db01b57786ed6e808b051701b982acbc530",
+    "duplicateOf": "../siplgroup/New Image/image1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/image2.jpg",
+    "bytes": 113077,
+    "sha256": "c707961f6f31b1ace4a9a43d3a8d8aac6195f483d0e611999eb83eaf00b9c6ac",
+    "duplicateOf": "../siplgroup/New Image/image2.jpg"
+  },
+  {
+    "path": "../siplgroup/img/logo Change.png",
+    "bytes": 61005,
+    "sha256": "0a8395e69d9b97ace59d30d9d6d86bad08cac51e2d8489aa46dbe519049c0123",
+    "duplicateOf": "../siplgroup/New Image/logo Change.png"
+  },
+  {
+    "path": "../siplgroup/img/logo-Icon.png",
+    "bytes": 12835,
+    "sha256": "6c21c0929ccdf66690a93f8e14c3da7aa8fca2daf34a96dfe77b52ad03be99d9",
+    "duplicateOf": "../siplgroup/New Image/logo-Icon.png"
+  },
+  {
+    "path": "../siplgroup/img/missionimg1.jpg",
+    "bytes": 8051,
+    "sha256": "06c080595b82ff90f77cfd28237114a98e0075329e89faffe57932d18beb55e0",
+    "duplicateOf": "../siplgroup/New Image/missionimg1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/our_group.png",
+    "bytes": 85126,
+    "sha256": "f68e3ea38325f17c7de237b5519b43e3fe5b278b6ceec751c51af64e6f4b02b6",
+    "duplicateOf": "../siplgroup/New Image/our_group.png"
+  },
+  {
+    "path": "../siplgroup/img/projbg.jpg",
+    "bytes": 284306,
+    "sha256": "06e38b4a5324df7f9f5ce06b06efe1634544a10b5bdbe80b8e1113e6b0cc1a3d",
+    "duplicateOf": "../siplgroup/New Image/projbg.jpg"
+  },
+  {
+    "path": "../siplgroup/img/rajat-sarki-akSG4TrVhr0-unsplash.jpg",
+    "bytes": 14369,
+    "sha256": "204cce847146cbdba6a1dcbd1a5a4c38d460604bccda9b181aa9fb875abaded4",
+    "duplicateOf": "../siplgroup/New Image/rajat-sarki-akSG4TrVhr0-unsplash.jpg"
+  },
+  {
+    "path": "../siplgroup/img/real-estate-8.jpg",
+    "bytes": 602697,
+    "sha256": "e9327aab9a29e04ecc0ddcf8b0e47d12b3b7ab64b63c98b4fe85d62985e95df1",
+    "duplicateOf": "../siplgroup/New Image/real-estate-8.jpg"
+  },
+  {
+    "path": "../siplgroup/img/real-estate-property-night-view-sttah8uqfyoch8ln.jpg",
+    "bytes": 125112,
+    "sha256": "a5d4a4ba93a4edaa663067dc8c3f102c6c1675c0b31a23c51320b5e08ad34e28",
+    "duplicateOf": "../siplgroup/New Image/real-estate-property-night-view-sttah8uqfyoch8ln.jpg"
+  },
+  {
+    "path": "../siplgroup/img/salman-hossain-saif-fO2764zskEQ-unsplash (1).jpg",
+    "bytes": 11989,
+    "sha256": "d65add286bcebf4d5bda3c617011c9e853a363076dbc22ddf137445ed595de43",
+    "duplicateOf": "../siplgroup/New Image/salman-hossain-saif-fO2764zskEQ-unsplash (1).jpg"
+  },
+  {
+    "path": "../siplgroup/img/security-guard-residential-building-782x522.jpg",
+    "bytes": 4040,
+    "sha256": "0e87733a8c80dd513114a20fc4945743b35db0a037236d35a5d1b718dbf0a3c1",
+    "duplicateOf": "../siplgroup/New Image/security-guard-residential-building-782x522.jpg"
+  },
+  {
+    "path": "../siplgroup/img/sitting and pool area.jpg",
+    "bytes": 37917,
+    "sha256": "e5580f252e032064be66bccb94a9b3e59078dc77d5fc3797300483f8f1a73926",
+    "duplicateOf": "../siplgroup/New Image/sitting and pool area.jpg"
+  },
+  {
+    "path": "../siplgroup/img/slider_1.jpg",
+    "bytes": 1147761,
+    "sha256": "48253d7635877a7fe95651b6c0e5a8d0b0a37e9b12a089822e64076b446c9ada",
+    "duplicateOf": "../siplgroup/New Image/slider_1.jpg"
+  },
+  {
+    "path": "../siplgroup/img/slider_2.jpg",
+    "bytes": 648785,
+    "sha256": "aaa4c98a2de137965788c79be57917e94fa89d22e50f27b72c387e0c2af9e1d2",
+    "duplicateOf": "../siplgroup/New Image/slider_2.jpg"
+  },
+  {
+    "path": "../siplgroup/img/slider_4.jpg",
+    "bytes": 758972,
+    "sha256": "ffab3affe17e15ee0217dcc990455b6b1b40c3d6216afde628ff1877ecb3cd20",
+    "duplicateOf": "../siplgroup/New Image/slider_4.jpg"
+  },
+  {
+    "path": "../siplgroup/img/srivatsan-balaji-T5s48osIQTU-unsplash.jpg",
+    "bytes": 123090,
+    "sha256": "14eb4b60bfe976fbb57328adf05725ec8eca1dc5866f3bfe053b626b12f5c4c5",
+    "duplicateOf": "../siplgroup/New Image/srivatsan-balaji-T5s48osIQTU-unsplash.jpg"
+  },
+  {
+    "path": "../siplgroup/img/thequint_2022-11_8ffc5d31-cb46-4cd5-8c53-c44b6d3b33a1_Screenshot_2022_11_08_103642.webp",
+    "bytes": 266862,
+    "sha256": "32cf06e3c46193fd6db50936076a9adf5168b4c24da27430cfb2021986b80fb3",
+    "duplicateOf": "../siplgroup/New Image/thequint_2022-11_8ffc5d31-cb46-4cd5-8c53-c44b6d3b33a1_Screenshot_2022_11_08_103642.webp"
+  },
+  {
+    "path": "../siplgroup/img/touchscreen-contact-us-ltz8dds3tfeqcgw2.jpg",
+    "bytes": 3578,
+    "sha256": "8aa3a8b14911debd621cfa89fcb4d80658bfdf9f562a61c176b6ea544aa7b8a1",
+    "duplicateOf": "../siplgroup/New Image/touchscreen-contact-us-ltz8dds3tfeqcgw2.jpg"
+  },
+  {
+    "path": "../siplgroup/img/vlcsnap-2022-07-23-21h21m04s880.png",
+    "bytes": 115005,
+    "sha256": "385b900085ee27687f1064bdaab90c20869c27a9ace491ed5ca9b3aaaabb6b08",
+    "duplicateOf": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s880.png"
+  },
+  {
+    "path": "../siplgroup/img/vlcsnap-2022-07-23-21h21m04s881.png",
+    "bytes": 128370,
+    "sha256": "dc7adcd424e9282c57b9108ef7158c9579c8611f49e71c77562ea1e4d18f1604",
+    "duplicateOf": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s881.png"
+  },
+  {
+    "path": "../siplgroup/img/vlcsnap-2022-07-23-21h21m04s882.png",
+    "bytes": 65707,
+    "sha256": "17b7d965d82ac27ea0edcc78a206f236a7fd5e758fc5861917d9af3a107e3021",
+    "duplicateOf": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s882.png"
+  },
+  {
+    "path": "../siplgroup/img/vlcsnap-2022-07-23-21h21m04s883.png",
+    "bytes": 62904,
+    "sha256": "616007dae67daee977bee0d27198690a6b24d8a3d3fe194bc9fd2ba227cd467d",
+    "duplicateOf": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s883.png"
+  },
+  {
+    "path": "../siplgroup/img/vlcsnap-2022-07-23-21h21m04s884.png",
+    "bytes": 126697,
+    "sha256": "9112f0412906d8277bee0fbae23934f1af7e39477be2c4ef3124acd919d573c1",
+    "duplicateOf": "../siplgroup/New Image/vlcsnap-2022-07-23-21h21m04s884.png"
+  },
+  {
+    "path": "../siplgroup/img/vlcsnap-2022-07-23-21h22m29s575.png",
+    "bytes": 21776,
+    "sha256": "7de2a17dd72c32de9733307dbecb6fa7b6557966fafc9b69f4359c68e0de1add",
+    "duplicateOf": "../siplgroup/New Image/vlcsnap-2022-07-23-21h22m29s575.png"
+  },
+  {
+    "path": "../siplgroup/img/zac-ong-JHN1-mpgXjo-unsplash.jpg",
+    "bytes": 60875,
+    "sha256": "4ea0b7e1a6e8424582425aa0bb61822e6e64c4bf68e6258970a773a555266ad9",
+    "duplicateOf": "../siplgroup/New Image/zac-ong-JHN1-mpgXjo-unsplash.jpg"
+  },
+  {
+    "path": "../siplgroup/index.js",
+    "bytes": 1163,
+    "sha256": "c3ab4ec312a23e7ec8d37712659fcd25e7dc24b3fd0ec18ae0ebea4680dbfcd2",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/index.php",
+    "bytes": 18957,
+    "sha256": "66f5cd0e1872d9142132cd5e36d0d8e822dfd4a21b9af1ca2f253e301198de1a",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/index_1.js",
+    "bytes": 1751,
+    "sha256": "6d8384ccc08896a6830f103840d4f1cf83149f085f6268099c3df96bb422a1d1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-about-us.php",
+    "bytes": 19746,
+    "sha256": "3ee5c242d22810fa5173862f501b5fdcb959965cc6f7c3c064a1a7a1bca22c9e",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-barsana.php",
+    "bytes": 4374,
+    "sha256": "d5ba0edc9f147f26b55ab4f582fa9fd29dfeab025feeb69612c5c22384f0819d",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-career.php",
+    "bytes": 3409,
+    "sha256": "2b7b54c8001c1d0e3bd8a74d6b26c8373db433bf15d1045d914fc75c39b3b382",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-contact.php",
+    "bytes": 4728,
+    "sha256": "c36c5a61bf6c2ab17d5d303de02b137b67b0d864db916c6680849054ad1d7bd8",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-current-photos.php",
+    "bytes": 7430,
+    "sha256": "13b317cabff2146a3292bb7917a44a6d3b0728e18d1e2630995ccb45b0f8d226",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-event-photos.php",
+    "bytes": 7535,
+    "sha256": "be8069cfa2a39c091028eadf7a0e9e3e0892e3bf69c473614e74634f529f8c70",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-manasi-ganga.php",
+    "bytes": 4285,
+    "sha256": "b9aff8d3a17de3834405a39625d0d6d1cb0c2188fc40eec23543b7a2f1586cad",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-project-photos.php",
+    "bytes": 8327,
+    "sha256": "60a3b2ca6152454b8399ccc1e68fd154ee0f7e3afc6bfd228a8a84faf43d2d09",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-raman-reti.php",
+    "bytes": 4272,
+    "sha256": "e37cb3e4d5642025af7c150fc7bd08e81fed7d0fdfc3f01ed524b401e6999aa1",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/page-sri-krishna-vilas.php",
+    "bytes": 10225,
+    "sha256": "af2ad8facbb13854e781ecc2dfeddad273ca9716a72cacf14c497178eb7bd79f",
+    "duplicateOf": null
+  },
+  {
+    "path": "../siplgroup/style.css",
+    "bytes": 38010,
+    "sha256": "32560e9f42e6bf80c1164280bae8985b8d20e0ee99370af288eaedbe12ab4cc4",
+    "duplicateOf": null
+  }
+]

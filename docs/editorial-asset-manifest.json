@@ -1,0 +1,59 @@
+[
+  {
+    "output": "/media/editorial/arrival.webp",
+    "source": "front view_Day exterior view.png",
+    "project": "Sri Krishna Vilas",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "edits": "Proportional resize and WebP compression only; CSS framing, no geometry changes",
+    "route": "/projects/sri-krishna-vilas"
+  },
+  {
+    "output": "/media/editorial/atrium.webp",
+    "source": "Atrium 6.jpg",
+    "project": "Sri Krishna Vilas",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "edits": "Proportional resize and WebP compression only; CSS framing, no geometry changes",
+    "route": "/projects/sri-krishna-vilas"
+  },
+  {
+    "output": "/media/editorial/interior.webp",
+    "source": "Sample Flats/Enscape_2024-12-28-18-25-25_Enscape scene 3.png",
+    "project": "Sri Krishna Vilas",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "edits": "Proportional resize and WebP compression only; CSS framing, no geometry changes",
+    "route": "/projects/sri-krishna-vilas"
+  },
+  {
+    "output": "HTML/CSS corporate city composition",
+    "source": "public/assets/varanasi.webp; existing asset-map.json provenance",
+    "project": "SIPL Group / Varanasi city context",
+    "dimensions": "Responsive 300\u2013510px image height",
+    "edits": "CSS crop, HTML typography; no altered geography",
+    "route": "/"
+  },
+  {
+    "output": "HTML/CSS key-tag and hospitality aperture",
+    "source": "public/assets/hospitality.webp and public/assets/corporate/kashi-room.webp",
+    "project": "The Kashi Residency",
+    "dimensions": "Responsive CSS framing",
+    "edits": "Non-destructive mask and decorative brass ring",
+    "route": "/"
+  },
+  {
+    "output": "Portfolio identity panels",
+    "source": "public/assets/barsana-logo.webp; raman-logo.webp; manasi-logo.webp",
+    "project": "Each named project only",
+    "dimensions": "Responsive contain; original proportions",
+    "edits": "Background panels; no logo regeneration",
+    "route": "/ and corresponding project routes"
+  }
+]

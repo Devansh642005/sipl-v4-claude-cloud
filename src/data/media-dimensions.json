@@ -1,0 +1,292 @@
+{
+  "/assets/lobby.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/plan-2bhk.webp": {
+    "width": 1200,
+    "height": 852,
+    "aspectRatio": 1.408450704225352
+  },
+  "/assets/manasi-logo.webp": {
+    "width": 277,
+    "height": 195,
+    "aspectRatio": 1.4205128205128206
+  },
+  "/assets/master-plan.webp": {
+    "width": 1600,
+    "height": 1135,
+    "aspectRatio": 1.4096916299559472
+  },
+  "/assets/hero.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/varanasi.webp": {
+    "width": 1296,
+    "height": 864,
+    "aspectRatio": 1.5
+  },
+  "/assets/logo-dark.png": {
+    "width": 1000,
+    "height": 530,
+    "aspectRatio": 1.8867924528301887
+  },
+  "/assets/official-brochure-cover.webp": {
+    "width": 1200,
+    "height": 852,
+    "aspectRatio": 1.408450704225352
+  },
+  "/assets/badminton.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/skv-igbc-precertificate.jpg": {
+    "width": 930,
+    "height": 720,
+    "aspectRatio": 1.2916666666666667
+  },
+  "/assets/kids-play.webp": {
+    "width": 636,
+    "height": 397,
+    "aspectRatio": 1.602015113350126
+  },
+  "/assets/plan-1bhk.webp": {
+    "width": 994,
+    "height": 1400,
+    "aspectRatio": 0.71
+  },
+  "/assets/jogging.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/east.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/progress-courtyard.webp": {
+    "width": 1200,
+    "height": 1600,
+    "aspectRatio": 0.75
+  },
+  "/assets/exterior-aerial.webp": {
+    "width": 1333,
+    "height": 792,
+    "aspectRatio": 1.6830808080808082
+  },
+  "/assets/atrium.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/raman-logo.webp": {
+    "width": 549,
+    "height": 143,
+    "aspectRatio": 3.839160839160839
+  },
+  "/assets/skv-brochure-cover.jpg": {
+    "width": 710,
+    "height": 1000,
+    "aspectRatio": 0.71
+  },
+  "/assets/indoor-gym.webp": {
+    "width": 960,
+    "height": 540,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/plan-3bhk.webp": {
+    "width": 1200,
+    "height": 852,
+    "aspectRatio": 1.408450704225352
+  },
+  "/assets/hospitality.webp": {
+    "width": 596,
+    "height": 563,
+    "aspectRatio": 1.058614564831261
+  },
+  "/assets/pool.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/exterior-front.webp": {
+    "width": 1600,
+    "height": 1600,
+    "aspectRatio": 1.0
+  },
+  "/assets/living.webp": {
+    "width": 895,
+    "height": 533,
+    "aspectRatio": 1.679174484052533
+  },
+  "/assets/architecture.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/guest-room.webp": {
+    "width": 960,
+    "height": 540,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/bedroom.webp": {
+    "width": 963,
+    "height": 536,
+    "aspectRatio": 1.796641791044776
+  },
+  "/assets/exterior-evening.webp": {
+    "width": 1333,
+    "height": 792,
+    "aspectRatio": 1.6830808080808082
+  },
+  "/assets/barsana-logo.webp": {
+    "width": 445,
+    "height": 195,
+    "aspectRatio": 2.282051282051282
+  },
+  "/assets/progress-wide.webp": {
+    "width": 400,
+    "height": 180,
+    "aspectRatio": 2.2222222222222223
+  },
+  "/assets/logo-light.png": {
+    "width": 1600,
+    "height": 574,
+    "aspectRatio": 2.7874564459930316
+  },
+  "/assets/walkway.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/progress.webp": {
+    "width": 1200,
+    "height": 1600,
+    "aspectRatio": 0.75
+  },
+  "/assets/clubhouse.webp": {
+    "width": 960,
+    "height": 540,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/aerial.webp": {
+    "width": 1333,
+    "height": 792,
+    "aspectRatio": 1.6830808080808082
+  },
+  "/assets/gym.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/og-sipl.jpg": {
+    "width": 1200,
+    "height": 630,
+    "aspectRatio": 1.9047619047619047
+  },
+  "/assets/theatre.webp": {
+    "width": 1600,
+    "height": 900,
+    "aspectRatio": 1.7777777777777777
+  },
+  "/assets/corporate/kashi-room.webp": {
+    "width": 1440,
+    "height": 1024,
+    "aspectRatio": 1.40625
+  },
+  "/assets/corporate/shailesh-tripathi.webp": {
+    "width": 375,
+    "height": 308,
+    "aspectRatio": 1.2175324675324675
+  },
+  "/assets/corporate/event-4.webp": {
+    "width": 1400,
+    "height": 933,
+    "aspectRatio": 1.5005359056806002
+  },
+  "/assets/corporate/group-identities.png": {
+    "width": 1600,
+    "height": 91,
+    "aspectRatio": 17.582417582417584
+  },
+  "/assets/corporate/event-3.webp": {
+    "width": 1400,
+    "height": 933,
+    "aspectRatio": 1.5005359056806002
+  },
+  "/assets/corporate/raj-kumar.webp": {
+    "width": 295,
+    "height": 320,
+    "aspectRatio": 0.921875
+  },
+  "/assets/corporate/rajanikant-upadhyay.webp": {
+    "width": 106,
+    "height": 122,
+    "aspectRatio": 0.8688524590163934
+  },
+  "/assets/corporate/event-5.webp": {
+    "width": 1400,
+    "height": 933,
+    "aspectRatio": 1.5005359056806002
+  },
+  "/assets/corporate/deepak-arya.webp": {
+    "width": 169,
+    "height": 173,
+    "aspectRatio": 0.976878612716763
+  },
+  "/assets/corporate/event-2.webp": {
+    "width": 1400,
+    "height": 933,
+    "aspectRatio": 1.5005359056806002
+  },
+  "/assets/corporate/anita-singh.webp": {
+    "width": 110,
+    "height": 117,
+    "aspectRatio": 0.9401709401709402
+  },
+  "/assets/corporate/devesh-tripathi.webp": {
+    "width": 169,
+    "height": 173,
+    "aspectRatio": 0.976878612716763
+  },
+  "/assets/corporate/event-1.webp": {
+    "width": 1400,
+    "height": 933,
+    "aspectRatio": 1.5005359056806002
+  },
+  "/assets/corporate/manisha-gaur.webp": {
+    "width": 720,
+    "height": 720,
+    "aspectRatio": 1.0
+  },
+  "/assets/corporate/ar-amit-kumar-gupta.webp": {
+    "width": 217,
+    "height": 222,
+    "aspectRatio": 0.9774774774774775
+  },
+  "/assets/corporate/satyendra-ojha.webp": {
+    "width": 169,
+    "height": 173,
+    "aspectRatio": 0.976878612716763
+  },
+  "/assets/corporate/sarvesh-tripathi.webp": {
+    "width": 720,
+    "height": 720,
+    "aspectRatio": 1.0
+  },
+  "/assets/corporate/chandan-shashank.webp": {
+    "width": 143,
+    "height": 136,
+    "aspectRatio": 1.0514705882352942
+  },
+  "/assets/corporate/vyomika-pathak.webp": {
+    "width": 720,
+    "height": 785,
+    "aspectRatio": 0.9171974522292994
+  }
+}
