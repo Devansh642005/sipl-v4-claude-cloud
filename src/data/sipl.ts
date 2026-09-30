@@ -25,7 +25,7 @@ export const project = {
   source: "https://siplgroup.in/sri-krishna-vilas/",
   walkthrough: "https://www.youtube.com/watch?v=3hNM2ulWbI4",
   brochure: "/documents/sri-krishna-vilas-official-brochure.pdf",
-  heroVideo: "/media/sri-krishna-vilas-tour-web.mp4",
+  heroVideo: "/media/sri-krishna-vilas-corporate-film.mp4",
   heroVideoApproved: true,
   film: "/media/skv-walkthrough.mp4",
 };
