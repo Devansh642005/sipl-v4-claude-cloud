@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 
-const FILM = "/media/film/skv-film-web.mp4";
+const FILM = "/media/film/skv-film-hero.mp4";
 const POSTER = "/media/film/skv-hero-poster.webp";
 
 export function HeroFilm() {

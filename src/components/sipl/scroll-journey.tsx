@@ -2,17 +2,22 @@
 import { useEffect, useRef, useState } from "react";
 
 const GUTTER = 64;
+const PHONE = 760;
 const STEP = 6;
 
 /** Winding trail down the right edge; a peacock feather and flute travel it as the page scrolls. */
 export function ScrollJourney() {
   const [vh, setVh] = useState(0);
+  const [phone, setPhone] = useState(false);
   const trail = useRef<SVGPathElement>(null);
   const done = useRef<SVGPathElement>(null);
   const marker = useRef<SVGGElement>(null);
 
   useEffect(() => {
-    const measure = () => setVh(window.innerHeight);
+    const measure = () => {
+      setVh(window.innerHeight);
+      setPhone(window.innerWidth <= PHONE);
+    };
     measure();
     window.addEventListener("resize", measure);
     return () => window.removeEventListener("resize", measure);
@@ -23,11 +28,12 @@ export function ScrollJourney() {
     const wave = Math.max(320, vh / 2.2);
     let out = "";
     for (let y = -STEP; y <= vh + STEP; y += STEP) {
-      const x = GUTTER / 2 + 12 * Math.sin((y / wave) * Math.PI * 2);
+      const x = GUTTER / 2 + (phone ? 7 : 12) * Math.sin((y / wave) * Math.PI * 2);
       out += `${out ? "L" : "M"}${x.toFixed(1)} ${y}`;
     }
     return out;
   })();
+  const scale = phone ? 0.85 : 1.2;
 
   useEffect(() => {
     const path = trail.current;
@@ -43,7 +49,7 @@ export function ScrollJourney() {
       const at = path.getPointAtLength(total * p);
       const ahead = path.getPointAtLength(Math.min(total, total * p + 6));
       const tilt = Math.max(-26, Math.min(26, (ahead.x - at.x) * 9));
-      mark.setAttribute("transform", `translate(${at.x} ${at.y}) rotate(${tilt}) scale(1.2)`);
+      mark.setAttribute("transform", `translate(${at.x} ${at.y}) rotate(${tilt}) scale(${scale})`);
       line.style.strokeDashoffset = `${total * (1 - p)}`;
     };
     const tick = () => {
@@ -65,7 +71,7 @@ export function ScrollJourney() {
       window.removeEventListener("resize", onScroll);
       cancelAnimationFrame(frame);
     };
-  }, [d]);
+  }, [d, scale]);
 
   return (
     <div className="s-journey" aria-hidden="true">

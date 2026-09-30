@@ -14,6 +14,7 @@ import {
   VideoExperience,
   ProjectCard,
 } from "@/components/corporate/interactive";
+import { HeroFilm } from "@/components/sipl/hero-film";
 import { QuickFacts } from "@/components/estate-hero";
 import { MasterPlan } from "@/components/master-plan";
 import { ConfigurationExplorer } from "@/components/configuration-explorer";
@@ -58,8 +59,6 @@ const sectionNav: [string, string][] = [
 ];
 
 export default function SriKrishnaVilas() {
-  /* the arrival render is the strongest asset; fall back to the tower hero */
-  const arrival = media["v4-arrival"] ? "v4-arrival" : "hero";
   const related = projects.filter((p) => p.id !== "sri-krishna-vilas");
 
   return (
@@ -70,8 +69,8 @@ export default function SriKrishnaVilas() {
       />
 
       {/* ── 1 · CINEMATIC HERO ──────────────────────────────── */}
-      <section className="lx-hero" aria-labelledby="skv-title">
-        <MediaImage id={arrival} priority decorative />
+      <section className="lx-hero lx-hero-film" aria-labelledby="skv-title">
+        <HeroFilm />
         <div className="lx-hero-veil" aria-hidden="true" />
         <div className="lx-hero-inner">
           <span className="lx-eyebrow lx-eyebrow-rule">
