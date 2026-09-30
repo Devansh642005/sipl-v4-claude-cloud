@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { contact } from "@/data/contact";
 import { projects } from "@/data/projects";
 import { siteImages } from "@/data/site-images";
+import { explorePages } from "@/data/explore";
 import { ArrowIcon } from "./ui";
 
 const primary = [
@@ -53,6 +54,9 @@ export function SiteHeader() {
       <div className="s-utility">
         <div className="s-utility-inner">
           <span>Real estate &amp; hospitality · Varanasi</span>
+          <Link href="/about/awards" className="s-utility-award">
+            <i aria-hidden="true">★</i> IGBC Gold Precertified · UP RERA registered
+          </Link>
           <div className="s-utility-links">
             <a href={"tel:" + contact.tel}>{contact.phone}</a>
             <a href={"mailto:" + contact.email}>{contact.email}</a>
@@ -109,6 +113,14 @@ export function SiteHeader() {
                         </small>
                       </Link>
                     ))}
+                    <div className="s-dropdown-explore">
+                      <small>Explore Sri Krishna Vilas</small>
+                      {explorePages.map((e) => (
+                        <Link key={e.href} href={e.href}>
+                          <span>{e.title}</span>
+                        </Link>
+                      ))}
+                    </div>
                     <Link href="/projects" className="s-dropdown-all">
                       <span>All projects</span>
                       <ArrowIcon />
@@ -169,6 +181,11 @@ export function SiteHeader() {
             {projects.map((p) => (
               <Link key={p.id} href={p.href}>
                 {p.name}
+              </Link>
+            ))}
+            {explorePages.map((e) => (
+              <Link key={e.href} href={e.href}>
+                {e.title}
               </Link>
             ))}
           </div>

@@ -4,6 +4,7 @@ import { contact } from "@/data/contact";
 import { contactConfig } from "@/data/contact";
 import { siteImages } from "@/data/site-images";
 import { ArrowIcon } from "./ui";
+import { TowersArt } from "./flourish";
 
 const columns = [
   {
@@ -37,6 +38,19 @@ const columns = [
       ["Customer Stories", "/testimonials"],
       ["NRI Corner", "/nri"],
       ["EMI Calculator", "/emi-calculator"],
+      ["Virtual Tour", "/tour"],
+      ["Floor Plans", "/floor-plans"],
+      ["Amenities", "/amenities"],
+      ["Site Progress", "/progress"],
+      ["Location", "/location"],
+      ["Buyer's Guide", "/buyers-guide"],
+      ["Ask Us Anything", "/ask"],
+      ["Budget Planner", "/tools"],
+      ["Buyer Stories", "/stories"],
+      ["Sustainability", "/sustainability"],
+      ["For Investors", "/investors"],
+      ["Your Site Visit", "/visit-day"],
+      ["Recommend Us", "/referral"],
     ],
   },
 ];
@@ -53,6 +67,10 @@ export function SiteFooter() {
           <p className="s-footer-tagline">
             Real estate and hospitality. Rooted in Varanasi.
           </p>
+          <p className="s-footer-deva" lang="hi">
+            श्री कृष्ण विलास
+          </p>
+          <TowersArt />
         </div>
         <div className="s-footer-grid">
           <div className="s-footer-brand">

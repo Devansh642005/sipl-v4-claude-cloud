@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { EnquireButton } from "@/components/corporate/interactive";
 import { HeroFilm } from "./hero-film";
+import { Greeting } from "./flourish";
 import { Arch, ArrowIcon, Eyebrow, KeyTag, PillLink, Ribbon, SiteImg, TextLink } from "./ui";
 
 export function HomeHero() {
@@ -9,6 +10,7 @@ export function HomeHero() {
       <div className="s-film-stage">
         <HeroFilm />
         <div className="s-film-copy">
+          <Greeting />
           <Eyebrow>Current project · Real estate · Running</Eyebrow>
           <h1 id="home-title" className="s-display s-hero-title">
             Two towers.

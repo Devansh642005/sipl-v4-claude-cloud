@@ -7,20 +7,38 @@ import "./experience.css";
 import "./luxe.css";
 import "./editorial.css";
 import "./sipl.css";
+import "./deep.css";
+import "./crown.css";
 import type { Viewport } from "next";
-import { Cormorant_Garamond, DM_Sans } from "next/font/google";
+import { Cinzel, Cormorant_Garamond, DM_Sans, Noto_Serif_Devanagari } from "next/font/google";
 import { VideoTheatre } from "@/components/corporate/video-theatre";
 import { GraphicMotion } from "@/components/corporate/graphic-motion";
 import { GlobalContact } from "@/components/corporate/interactive";
 import { SiteHeader } from "@/components/sipl/site-header";
 import { SiteFooter } from "@/components/sipl/site-footer";
 import { ScrollJourney } from "@/components/sipl/scroll-journey";
+import { GoldCursor, PageMotion } from "@/components/sipl/page-motion";
+import { AmbientSound, ExitOffer, IntroCurtain, MobileBar, NightToggle, ToTop } from "@/components/sipl/flourish";
+import { contact } from "@/data/contact";
+import { project } from "@/data/sipl";
 
 const display = Cormorant_Garamond({
   subsets: ["latin"],
-  weight: ["500"],
+  weight: ["400", "500", "600", "700"],
   style: ["normal", "italic"],
   variable: "--font-display",
+  display: "swap",
+});
+const royal = Cinzel({
+  subsets: ["latin"],
+  weight: ["500", "600"],
+  variable: "--font-royal",
+  display: "swap",
+});
+const deva = Noto_Serif_Devanagari({
+  subsets: ["devanagari"],
+  weight: ["500", "600"],
+  variable: "--font-deva",
   display: "swap",
 });
 const body = DM_Sans({
@@ -58,13 +76,21 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${display.variable} ${body.variable}`}>
+    <html lang="en" className={`${display.variable} ${body.variable} ${royal.variable} ${deva.variable}`}>
       <body className="s-body-root">
         <a className="skip-link" href="#main">
           Skip to content
         </a>
         <SiteHeader />
         <ScrollJourney />
+        <PageMotion />
+        <GoldCursor />
+        <IntroCurtain />
+        <AmbientSound />
+        <NightToggle />
+        <ToTop />
+        <ExitOffer href={project.brochure} />
+        <MobileBar tel={contact.tel} />
         {children}
         <SiteFooter />
         <GlobalContact />

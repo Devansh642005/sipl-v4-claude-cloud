@@ -1,3 +1,4 @@
+import { HomeLeadership, HomeRecognition, HomeStory, HomeWhy } from "@/components/sipl/home-royal";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { pages } from "@/data/pages";
@@ -44,6 +45,15 @@ export default async function Page({
     <main id="main" className="corporate c-inner-page" data-page={slug.join("-")}>
       <Breadcrumbs path={path} title={pages[path].title} />
       <RouteContent path={path} />
+      {path === "/about" && (
+        <>
+          <HomeWhy />
+          <HomeRecognition />
+          <HomeLeadership />
+        </>
+      )}
+      {path === "/about/legacy" && <HomeStory />}
+      {path === "/about/awards" && <HomeWhy />}
     </main>
   );
 }

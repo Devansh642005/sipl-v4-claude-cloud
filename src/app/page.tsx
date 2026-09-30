@@ -12,6 +12,7 @@ import {
 } from "@/components/sipl/home-sections";
 import {
   HomeBand,
+  HomeExplore,
   HomeInteriors,
   HomeLife,
   HomeLocation,
@@ -19,6 +20,16 @@ import {
   HomeResidences,
   HomeTrust,
 } from "@/components/sipl/home-more";
+import {
+  HomeDay,
+  HomeLeadership,
+  HomeLines,
+  HomeManifesto,
+  HomeRecognition,
+  HomeStory,
+  HomeVoices,
+  HomeWhy,
+} from "@/components/sipl/home-royal";
 
 export const metadata: Metadata = {
   title: "SIPL Group | Building Trust | Varanasi",
@@ -32,12 +43,16 @@ export default function Home() {
     <main id="main" className="s-page">
       <HomeHero />
       <HomeTrust />
+      <HomeLines />
+      <HomeManifesto />
       <HomeRibbon />
       <HomeStatement />
       <HomePortfolio />
+      <HomeStory />
       <HomeCurtain />
       <HomeTowers />
       <HomeLife />
+      <HomeDay />
       <HomeBand
         id="frontageLandscapeRoad"
         kicker="Open ground"
@@ -46,14 +61,19 @@ export default function Home() {
       />
       <HomeResidences />
       <HomeInteriors />
+      <HomeExplore />
+      <HomeWhy />
       <HomeLandscape />
       <HomeProgress />
+      <HomeRecognition />
+      <HomeLeadership />
+      <HomeVoices />
       <HomeBand
         id="gardenAmphitheatre"
         kicker="Come and see it"
         title="Visit the site,"
         em="walk the grounds."
-        cta={{ href: "/contact", label: "Book a site visit" }}
+        cta={{ href: "/book-visit", label: "Book a site visit" }}
       />
       <HomeLocation />
       <HomeWelcome />
