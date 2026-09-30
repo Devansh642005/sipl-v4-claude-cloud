@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Link from "next/link";
+import { explorePages } from "@/data/explore";
 import { amenities, contact } from "@/data/sipl";
 import { mapsLink, rera } from "@/data/verified";
 import { CountUp, Reveal } from "./motion";
@@ -258,6 +260,40 @@ export function HomeBand({
           )}
           <p className="s-band-c">Artist&apos;s impression</p>
         </Reveal>
+      </div>
+    </section>
+  );
+}
+
+export function HomeExplore() {
+  return (
+    <section className="s-section s-bg-sage" aria-labelledby="ex-title">
+      <div className="s-container">
+        <Reveal>
+          <Eyebrow>Explore Sri Krishna Vilas</Eyebrow>
+          <h2 id="ex-title" className="s-display s-h2">
+            Everything you want to know,
+            <em>one click away.</em>
+          </h2>
+        </Reveal>
+        <div className="ex-grid">
+          {explorePages.map((e, i) => (
+            <Reveal key={e.href} delay={i * 70}>
+              <Link href={e.href} className="ex-card">
+                <div className="ex-media">
+                  <SiteImg id={e.image as SiteImageKey} sizes="(max-width: 900px) 90vw, 420px" />
+                </div>
+                <h3 className="s-display">
+                  {e.title}
+                  <span className="ex-arrow" aria-hidden="true">
+                    →
+                  </span>
+                </h3>
+                <p>{e.blurb}</p>
+              </Link>
+            </Reveal>
+          ))}
+        </div>
       </div>
     </section>
   );

@@ -7,6 +7,7 @@ import "./experience.css";
 import "./luxe.css";
 import "./editorial.css";
 import "./sipl.css";
+import "./deep.css";
 import type { Viewport } from "next";
 import { Cormorant_Garamond, DM_Sans } from "next/font/google";
 import { VideoTheatre } from "@/components/corporate/video-theatre";
@@ -15,6 +16,7 @@ import { GlobalContact } from "@/components/corporate/interactive";
 import { SiteHeader } from "@/components/sipl/site-header";
 import { SiteFooter } from "@/components/sipl/site-footer";
 import { ScrollJourney } from "@/components/sipl/scroll-journey";
+import { GoldCursor, PageMotion } from "@/components/sipl/page-motion";
 
 const display = Cormorant_Garamond({
   subsets: ["latin"],
@@ -65,6 +67,8 @@ export default function RootLayout({
         </a>
         <SiteHeader />
         <ScrollJourney />
+        <PageMotion />
+        <GoldCursor />
         {children}
         <SiteFooter />
         <GlobalContact />

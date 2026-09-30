@@ -37,6 +37,12 @@ const columns = [
       ["Customer Stories", "/testimonials"],
       ["NRI Corner", "/nri"],
       ["EMI Calculator", "/emi-calculator"],
+      ["Virtual Tour", "/tour"],
+      ["Floor Plans", "/floor-plans"],
+      ["Amenities", "/amenities"],
+      ["Site Progress", "/progress"],
+      ["Location", "/location"],
+      ["Buyer's Guide", "/buyers-guide"],
     ],
   },
 ];

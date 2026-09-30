@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import { contact } from "@/data/contact";
 import { projects } from "@/data/projects";
 import { siteImages } from "@/data/site-images";
+import { explorePages } from "@/data/explore";
 import { ArrowIcon } from "./ui";
 
 const primary = [
@@ -109,6 +110,14 @@ export function SiteHeader() {
                         </small>
                       </Link>
                     ))}
+                    <div className="s-dropdown-explore">
+                      <small>Explore Sri Krishna Vilas</small>
+                      {explorePages.map((e) => (
+                        <Link key={e.href} href={e.href}>
+                          <span>{e.title}</span>
+                        </Link>
+                      ))}
+                    </div>
                     <Link href="/projects" className="s-dropdown-all">
                       <span>All projects</span>
                       <ArrowIcon />
@@ -169,6 +178,11 @@ export function SiteHeader() {
             {projects.map((p) => (
               <Link key={p.id} href={p.href}>
                 {p.name}
+              </Link>
+            ))}
+            {explorePages.map((e) => (
+              <Link key={e.href} href={e.href}>
+                {e.title}
               </Link>
             ))}
           </div>

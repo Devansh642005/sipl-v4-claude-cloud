@@ -12,6 +12,7 @@ import {
 } from "@/components/sipl/home-sections";
 import {
   HomeBand,
+  HomeExplore,
   HomeInteriors,
   HomeLife,
   HomeLocation,
@@ -46,6 +47,7 @@ export default function Home() {
       />
       <HomeResidences />
       <HomeInteriors />
+      <HomeExplore />
       <HomeLandscape />
       <HomeProgress />
       <HomeBand
