@@ -44,6 +44,13 @@ const columns = [
       ["Site Progress", "/progress"],
       ["Location", "/location"],
       ["Buyer's Guide", "/buyers-guide"],
+      ["Ask Us Anything", "/ask"],
+      ["Budget Planner", "/tools"],
+      ["Buyer Stories", "/stories"],
+      ["Sustainability", "/sustainability"],
+      ["For Investors", "/investors"],
+      ["Your Site Visit", "/visit-day"],
+      ["Recommend Us", "/referral"],
     ],
   },
 ];

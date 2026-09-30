@@ -150,3 +150,33 @@ export function RentVsEmi() {
     </div>
   );
 }
+
+/** Rough loan eligibility. Banks usually cap total EMIs at a share of income; the share varies. */
+export function Eligibility() {
+  const [income, setIncome] = useState(80000);
+  const [existing, setExisting] = useState(0);
+  const [years, setYears] = useState(20);
+  const [rate, setRate] = useState(8.5);
+  const share = 0.45;
+  const room = Math.max(0, income * share - existing);
+  const loan = loanFor(room, rate, years);
+  return (
+    <div className="tl-card sp-card">
+      <div className="tl-form">
+        <Range label="Monthly take-home income (household)" value={income} min={20000} max={500000} step={5000} onChange={setIncome} fmt={inr} />
+        <Range label="Existing loan payments per month" value={existing} min={0} max={150000} step={2500} onChange={setExisting} fmt={inr} />
+        <Range label="Loan period" value={years} min={5} max={30} step={1} onChange={setYears} fmt={(v) => `${v} years`} />
+        <Range label="Interest rate (illustrative)" value={rate} min={6} max={13} step={0.1} onChange={setRate} fmt={(v) => `${v.toFixed(1)}%`} />
+      </div>
+      <div className="tl-out">
+        <p className="tl-k">A rough loan range to discuss with a bank</p>
+        <p className="tl-big">up to {lakh(loan)}</p>
+        <p className="tl-k">with a monthly payment of about {inr(room)}</p>
+        <p className="tl-note">
+          Assumes total loan payments of about 45% of income. Banks set their own limits, and look at credit history, age
+          and the property. This is a conversation starter, not an offer or advice.
+        </p>
+      </div>
+    </div>
+  );
+}

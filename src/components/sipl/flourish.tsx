@@ -135,8 +135,42 @@ function flute(c: AudioContext, out: AudioNode, freq: number, when: number, dur:
   return oscs;
 }
 
+/* ── Soft piano: slow lounge-style chords with a simple melody above ── */
+function piano(c: AudioContext, out: AudioNode, freq: number, when: number, dur: number, vol: number) {
+  const g = c.createGain();
+  g.gain.setValueAtTime(0.0001, when);
+  g.gain.exponentialRampToValueAtTime(vol, when + 0.012); // soft hammer
+  g.gain.exponentialRampToValueAtTime(vol * 0.35, when + 0.6);
+  g.gain.exponentialRampToValueAtTime(0.0001, when + dur);
+  const lp = c.createBiquadFilter();
+  lp.type = "lowpass";
+  lp.frequency.setValueAtTime(Math.min(4200, freq * 7), when);
+  lp.frequency.exponentialRampToValueAtTime(Math.max(600, freq * 2), when + dur);
+  const partials: [number, number][] = [[1, 1], [2, 0.42], [3, 0.2], [4, 0.09], [5, 0.04]];
+  partials.forEach(([m, a], i) => {
+    const o = c.createOscillator();
+    o.type = "sine";
+    o.frequency.value = freq * m * (1 + (i % 2 ? 0.0006 : -0.0004));
+    const og = c.createGain();
+    og.gain.value = a;
+    o.connect(og).connect(lp);
+    o.start(when);
+    o.stop(when + dur + 0.2);
+  });
+  lp.connect(g).connect(out);
+}
+const hz = (midi: number) => 440 * Math.pow(2, (midi - 69) / 12);
+// Cmaj7 - Am7 - Fmaj7 - G6, each held two beats x 2
+const PROG = [
+  { bass: 48, chord: [55, 59, 64, 67], mel: [72, 74, 76, 79] },
+  { bass: 45, chord: [52, 60, 64, 67], mel: [72, 76, 79, 81] },
+  { bass: 41, chord: [53, 57, 60, 64], mel: [72, 76, 77, 81] },
+  { bass: 43, chord: [50, 55, 59, 64], mel: [71, 74, 76, 79] },
+];
+
+type Mode = "off" | "flute" | "piano";
 export function AmbientSound() {
-  const [on, setOn] = useState(false);
+  const [mode, setMode] = useState<Mode>("off");
   const ref = useRef<Player | null>(null);
 
   const stop = () => {
@@ -149,16 +183,16 @@ export function AmbientSound() {
     ref.current = null;
   };
 
-  const start = () => {
+  const start = (m: "flute" | "piano") => {
     const AC = window.AudioContext || (window as never as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
     const c = new AC();
     const master = c.createGain();
     master.gain.value = 0;
-    master.gain.setTargetAtTime(0.55, c.currentTime, 1.2);
+    master.gain.setTargetAtTime(m === "piano" ? 0.5 : 0.55, c.currentTime, 1.2);
     const wet = c.createGain();
-    wet.gain.value = 0.38;
+    wet.gain.value = m === "piano" ? 0.42 : 0.38;
     const dry = c.createGain();
-    dry.gain.value = 0.85;
+    dry.gain.value = 0.8;
     const conv = reverb(c);
     conv.connect(wet).connect(master);
     dry.connect(master);
@@ -166,66 +200,202 @@ export function AmbientSound() {
     bus.connect(dry);
     bus.connect(conv);
     master.connect(c.destination);
-
-    // tanpura-like hum: Sa and Pa, very quiet, breathing slowly
-    [D / 2, (D / 2) * 1.5].forEach((f, i) => {
-      const o = c.createOscillator();
-      o.type = "triangle";
-      o.frequency.value = f;
-      const g = c.createGain();
-      g.gain.value = 0.02;
-      const l = c.createOscillator();
-      l.frequency.value = 0.09 + i * 0.03;
-      const lg = c.createGain();
-      lg.gain.value = 0.012;
-      l.connect(lg).connect(g.gain);
-      const lp = c.createBiquadFilter();
-      lp.type = "lowpass";
-      lp.frequency.value = 500;
-      o.connect(lp).connect(g).connect(bus);
-      o.start();
-      l.start();
-    });
-
     const p: Player = { c, master, timer: 0, stopped: false };
     ref.current = p;
 
-    // phrase generator: slow stepwise melody that keeps returning to Sa, then rests
-    let idx = 5;
-    const phrase = () => {
-      if (p.stopped) return;
-      const now = c.currentTime + 0.1;
-      const n = 3 + Math.floor(Math.random() * 3);
-      let t = now;
-      for (let k = 0; k < n; k++) {
-        const step = [-2, -1, -1, 1, 1, 2][Math.floor(Math.random() * 6)];
-        idx = Math.max(2, Math.min(SCALE.length - 2, idx + step));
-        if (k === n - 1) idx = [0, 3, 5, 8][Math.floor(Math.random() * 4)] + 0; // land on a resting note
-        const dur = 2 + Math.random() * 1.6;
-        flute(c, bus, SCALE[idx], t, dur, 0.13);
-        t += dur * 0.82;
-      }
-      const rest = 2.5 + Math.random() * 3;
-      p.timer = window.setTimeout(phrase, (t - now + rest) * 1000);
-    };
-    phrase();
-    setOn(true);
+    if (m === "flute") {
+      [D / 2, (D / 2) * 1.5].forEach((f, i) => {
+        const o = c.createOscillator();
+        o.type = "triangle";
+        o.frequency.value = f;
+        const g = c.createGain();
+        g.gain.value = 0.02;
+        const l = c.createOscillator();
+        l.frequency.value = 0.09 + i * 0.03;
+        const lg = c.createGain();
+        lg.gain.value = 0.012;
+        l.connect(lg).connect(g.gain);
+        const lp = c.createBiquadFilter();
+        lp.type = "lowpass";
+        lp.frequency.value = 500;
+        o.connect(lp).connect(g).connect(bus);
+        o.start();
+        l.start();
+      });
+      let idx = 5;
+      const phrase = () => {
+        if (p.stopped) return;
+        const now = c.currentTime + 0.1;
+        const n = 3 + Math.floor(Math.random() * 3);
+        let t = now;
+        for (let k = 0; k < n; k++) {
+          const step = [-2, -1, -1, 1, 1, 2][Math.floor(Math.random() * 6)];
+          idx = Math.max(2, Math.min(SCALE.length - 2, idx + step));
+          if (k === n - 1) idx = [0, 3, 5, 8][Math.floor(Math.random() * 4)];
+          const dur = 2 + Math.random() * 1.6;
+          flute(c, bus, SCALE[idx], t, dur, 0.13);
+          t += dur * 0.82;
+        }
+        p.timer = window.setTimeout(phrase, (t - now + 2.5 + Math.random() * 3) * 1000);
+      };
+      phrase();
+    } else {
+      // ~58 bpm: one beat is about 1.03 s; each chord lasts 4 beats
+      const beat = 1.03;
+      let bar = 0;
+      let last = 2;
+      const play = () => {
+        if (p.stopped) return;
+        const t0 = c.currentTime + 0.1;
+        const ch = PROG[bar % PROG.length];
+        piano(c, bus, hz(ch.bass), t0, beat * 4.2, 0.16);
+        // rolled chord
+        ch.chord.forEach((n, i) => piano(c, bus, hz(n), t0 + 0.02 + i * 0.09, beat * 3.6, 0.075));
+        // gentle arpeggio on the off-beats
+        ch.chord.slice(1).forEach((n, i) => piano(c, bus, hz(n + 12), t0 + beat * (1 + i * 0.5), beat * 2, 0.045));
+        // sparse melody: two or three notes, not every bar
+        if (Math.random() < 0.85) {
+          const count = Math.random() < 0.5 ? 2 : 3;
+          let mt = t0 + beat * (1.5 + Math.random() * 0.5);
+          for (let k = 0; k < count; k++) {
+            last = Math.max(0, Math.min(ch.mel.length - 1, last + [-1, 0, 1, 1, -2][Math.floor(Math.random() * 5)]));
+            piano(c, bus, hz(ch.mel[last]), mt, beat * 2.6, 0.09);
+            mt += beat * (0.9 + Math.random() * 0.7);
+          }
+        }
+        bar++;
+        p.timer = window.setTimeout(play, beat * 4 * 1000);
+      };
+      play();
+    }
   };
 
-  const toggle = () => {
-    if (on) {
-      stop();
-      setOn(false);
+  const next = () => {
+    stop();
+    if (mode === "off") {
+      start("flute");
+      setMode("flute");
+    } else if (mode === "flute") {
+      start("piano");
+      setMode("piano");
     } else {
-      start();
+      setMode("off");
     }
   };
   useEffect(() => () => stop(), []);
+  const label = mode === "off" ? "Music off" : mode === "flute" ? "Flute" : "Piano";
   return (
-    <button type="button" className={`as ${on ? "is-on" : ""}`} onClick={toggle} aria-pressed={on} aria-label={on ? "Turn the flute music off" : "Turn the flute music on"}>
+    <button
+      type="button"
+      className={`as ${mode !== "off" ? "is-on" : ""}`}
+      onClick={next}
+      aria-label={`Background music: ${label}. Press to change.`}
+      title="Press to cycle: off, flute, piano"
+    >
       <span aria-hidden="true">♪</span>
-      {on ? "Flute on" : "Flute off"}
+      {label}
     </button>
+  );
+}
+
+/** Evening view: a warm dark palette. Remembered in the browser. */
+export function NightToggle() {
+  const [on, setOn] = useState(false);
+  useEffect(() => {
+    try {
+      if (localStorage.getItem("skv-night") === "1") {
+        document.documentElement.dataset.night = "1";
+        setOn(true);
+      }
+    } catch {}
+  }, []);
+  const toggle = () => {
+    const n = !on;
+    setOn(n);
+    if (n) document.documentElement.dataset.night = "1";
+    else delete document.documentElement.dataset.night;
+    try {
+      localStorage.setItem("skv-night", n ? "1" : "0");
+    } catch {}
+  };
+  return (
+    <button type="button" className={`nt ${on ? "is-on" : ""}`} onClick={toggle} aria-pressed={on} aria-label="Evening view">
+      <span aria-hidden="true">{on ? "☀" : "☾"}</span>
+      {on ? "Day view" : "Evening view"}
+    </button>
+  );
+}
+
+/** Sticky call, visit and enquire bar for phones. */
+export function MobileBar({ tel }: { tel: string }) {
+  return (
+    <nav className="mb" aria-label="Quick actions">
+      <a href={`tel:${tel}`}>Call</a>
+      <a href="/book-visit" className="mb-main">
+        Book a visit
+      </a>
+      <button
+        type="button"
+        onClick={() =>
+          window.dispatchEvent(new CustomEvent("sipl-enquire", { detail: { project: "", intent: "Project Information" } }))
+        }
+      >
+        Enquire
+      </button>
+    </nav>
+  );
+}
+
+/** Back to top, with the feather. */
+export function ToTop() {
+  const [show, setShow] = useState(false);
+  useEffect(() => {
+    const on = () => setShow(window.scrollY > 1400);
+    on();
+    window.addEventListener("scroll", on, { passive: true });
+    return () => window.removeEventListener("scroll", on);
+  }, []);
+  if (!show) return null;
+  return (
+    <button type="button" className="tt" aria-label="Back to top" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
+      ↑
+    </button>
+  );
+}
+
+/** One gentle offer to take the brochure when a desktop visitor is about to leave. */
+export function ExitOffer({ href }: { href: string }) {
+  const [open, setOpen] = useState(false);
+  useEffect(() => {
+    if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+    let armed = false;
+    const t = window.setTimeout(() => (armed = true), 25000);
+    const leave = (e: MouseEvent) => {
+      if (!armed || e.clientY > 0) return;
+      try {
+        if (sessionStorage.getItem("skv-exit")) return;
+        sessionStorage.setItem("skv-exit", "1");
+      } catch {}
+      setOpen(true);
+    };
+    document.addEventListener("mouseleave", leave);
+    return () => {
+      clearTimeout(t);
+      document.removeEventListener("mouseleave", leave);
+    };
+  }, []);
+  if (!open) return null;
+  return (
+    <div className="xo" role="dialog" aria-label="Take the brochure">
+      <button type="button" className="xo-x" onClick={() => setOpen(false)} aria-label="Close">
+        ×
+      </button>
+      <p className="xo-k">Before you go</p>
+      <p className="xo-t">Take the Sri Krishna Vilas brochure with you.</p>
+      <a className="s-pill s-pill-solid" href={href} download onClick={() => setOpen(false)}>
+        <span>Download brochure</span>
+      </a>
+    </div>
   );
 }
 

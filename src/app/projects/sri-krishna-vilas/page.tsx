@@ -63,6 +63,20 @@ export default function SriKrishnaVilas() {
 
   return (
     <main id="main" className="lx-home skv-corporate-detail">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ApartmentComplex",
+            name: "Sri Krishna Vilas",
+            description: "Residential project by SIPL Group on Lahartara–Bhitari Road, Varanasi, with 1, 1.5, 2 and 3 BHK residences.",
+            address: { "@type": "PostalAddress", streetAddress: "Lahartara–Bhitari Road", addressLocality: "Varanasi", addressRegion: "Uttar Pradesh", addressCountry: "IN" },
+            image: "https://siplgroup.in/assets/hero.webp",
+            url: "https://siplgroup.in/projects/sri-krishna-vilas",
+          }),
+        }}
+      />
       <Breadcrumbs
         path="/projects/sri-krishna-vilas"
         title="Sri Krishna Vilas"

@@ -49,6 +49,24 @@ export const explorePages = [
     image: "gardenAmphitheatre",
   },
   {
+    href: "/sustainability",
+    title: "Sustainability",
+    blurb: "IGBC Gold precertified, explained plainly.",
+    image: "gardenAmphitheatre",
+  },
+  {
+    href: "/visit-day",
+    title: "Your site visit",
+    blurb: "What to bring, look at and ask when you come.",
+    image: "govardhanEntrance",
+  },
+  {
+    href: "/investors",
+    title: "For investors",
+    blurb: "An honest checklist, with no promised returns.",
+    image: "balconyPoolView",
+  },
+  {
     href: "/buyers-guide",
     title: "Buyer's guide",
     blurb: "How buying works, step by step, and questions answered.",

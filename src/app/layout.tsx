@@ -18,7 +18,9 @@ import { SiteHeader } from "@/components/sipl/site-header";
 import { SiteFooter } from "@/components/sipl/site-footer";
 import { ScrollJourney } from "@/components/sipl/scroll-journey";
 import { GoldCursor, PageMotion } from "@/components/sipl/page-motion";
-import { AmbientSound, IntroCurtain } from "@/components/sipl/flourish";
+import { AmbientSound, ExitOffer, IntroCurtain, MobileBar, NightToggle, ToTop } from "@/components/sipl/flourish";
+import { contact } from "@/data/contact";
+import { project } from "@/data/sipl";
 
 const display = Cormorant_Garamond({
   subsets: ["latin"],
@@ -85,6 +87,10 @@ export default function RootLayout({
         <GoldCursor />
         <IntroCurtain />
         <AmbientSound />
+        <NightToggle />
+        <ToTop />
+        <ExitOffer href={project.brochure} />
+        <MobileBar tel={contact.tel} />
         {children}
         <SiteFooter />
         <GlobalContact />

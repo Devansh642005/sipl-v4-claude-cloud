@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { BudgetFinder, EmiPlanner, RentVsEmi } from "@/components/sipl/tools";
+import { BudgetFinder, Eligibility, EmiPlanner, RentVsEmi } from "@/components/sipl/tools";
 import { EnquiryBand, SubHero } from "@/components/sipl/subpage";
 
 export const metadata: Metadata = {
@@ -46,6 +46,16 @@ export default function Tools() {
             <em>set against ten years of EMI.</em>
           </h2>
           <RentVsEmi />
+        </div>
+      </section>
+      <section className="s-section s-bg-sand" aria-labelledby="elig-t">
+        <div className="s-container">
+          <p className="s-eyebrow">4 · Loan eligibility</p>
+          <h2 id="elig-t" className="s-display s-h2">
+            How much could a bank
+            <em>be willing to lend?</em>
+          </h2>
+          <Eligibility />
         </div>
       </section>
       <EnquiryBand title="Numbers look right?" em="Come and see the home." />
