@@ -1963,3 +1963,156 @@ a.s-trust-s {
     letter-spacing: 0;
   }
 }
+
+/* ═══ Full-picture pass: no arches or circles, real rectangles ═══════════ */
+.s-arch::before,
+.s-arch-window {
+  border-radius: 10px;
+}
+.s-arch::before {
+  transform: translate(12px, -12px);
+}
+.s-circle {
+  border-radius: 12px;
+  aspect-ratio: 4 / 3;
+}
+.s-circle-lg {
+  width: 100%;
+}
+.s-circle-sm {
+  border-radius: 10px;
+  aspect-ratio: 4 / 3;
+  width: 46%;
+}
+.s-keytag {
+  border-radius: 14px;
+  padding-top: 26px;
+}
+.s-keytag-window {
+  border-radius: 8px;
+}
+.s-life-sticky {
+  border-radius: 10px;
+  height: min(72vh, 640px);
+  box-shadow: 0 30px 60px -30px rgb(31 24 19 / 0.5);
+}
+.s-strip-card {
+  flex-basis: min(86vw, 780px);
+}
+.s-strip-card .s-img {
+  aspect-ratio: 16 / 10;
+  border-radius: 10px;
+}
+.s-life-inline {
+  border-radius: 10px;
+}
+
+/* Blurred picture behind the life section */
+.s-life-section {
+  overflow: clip;
+}
+.s-life-bgs {
+  position: absolute;
+  top: -80px;
+  bottom: -80px;
+  left: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  z-index: 0;
+  pointer-events: none;
+}
+.s-life-bg {
+  position: absolute;
+  inset: -60px;
+  background-size: cover;
+  background-position: center;
+  filter: blur(52px) saturate(1.15);
+  opacity: 0;
+  transition: opacity 1.2s var(--s-ease);
+}
+.s-life-bg.is-on {
+  opacity: 0.24;
+}
+.s-life-sticky,
+.s-life-list {
+  position: relative;
+  z-index: 1;
+}
+.s-life-sticky {
+  position: sticky;
+}
+
+/* Full-bleed picture band */
+.s-band {
+  position: relative;
+  min-height: clamp(420px, 70vh, 720px);
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: var(--s-ivory);
+}
+.s-band-veil {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgb(31 24 19 / 0.66), rgb(31 24 19 / 0.1) 70%),
+    linear-gradient(0deg, rgb(31 24 19 / 0.4), rgb(31 24 19 / 0) 40%);
+}
+.s-band-inner {
+  position: relative;
+  z-index: 1;
+}
+.s-band-k {
+  margin: 0 0 14px;
+  font-size: 11px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--s-tan);
+}
+.s-band-t {
+  font-size: clamp(40px, 6.4vw, 104px);
+  line-height: 0.96;
+  margin: 0 0 28px;
+  color: var(--s-ivory);
+}
+.s-band-t em {
+  display: block;
+  color: var(--s-tan);
+}
+.s-band-c {
+  margin: 26px 0 0;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  opacity: 0.75;
+}
+@media (max-width: 900px), (hover: none) {
+  .s-band {
+    background-attachment: scroll;
+  }
+}
+
+/* Inner pages: soft, blurred tower picture behind the page top */
+.c-inner-page {
+  position: relative;
+  isolation: isolate;
+}
+.c-inner-page::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: min(78vh, 720px);
+  background: url("/projects/sri-krishna-vilas/_placeholder-lowres/vilas-aerial-twin-towers-LOWRES.webp")
+    center 30% / cover no-repeat;
+  filter: blur(18px) saturate(1.1);
+  opacity: 0.22;
+  transform: scale(1.06);
+  -webkit-mask-image: linear-gradient(#000 20%, transparent);
+  mask-image: linear-gradient(#000 20%, transparent);
+  pointer-events: none;
+}

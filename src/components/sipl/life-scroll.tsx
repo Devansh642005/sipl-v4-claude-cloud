@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import { SiteImg } from "./ui";
-import type { SiteImageKey } from "@/data/site-images";
+import { siteImages, type SiteImageKey } from "@/data/site-images";
 
 type Item = { id: SiteImageKey; title: string; text: string };
 
@@ -26,6 +26,15 @@ export function LifeScroll({ items }: { items: Item[] }) {
 
   return (
     <div className="s-life">
+      <div className="s-life-bgs" aria-hidden="true">
+        {items.map((it, i) => (
+          <div
+            key={it.id}
+            className={`s-life-bg ${i === active ? "is-on" : ""}`}
+            style={{ backgroundImage: `url(${siteImages[it.id].src})` }}
+          />
+        ))}
+      </div>
       <div className="s-life-sticky" aria-hidden="true">
         {items.map((it, i) => (
           <div key={it.id} className={`s-life-frame ${i === active ? "is-on" : ""}`}>

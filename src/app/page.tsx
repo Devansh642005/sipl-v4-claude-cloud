@@ -11,6 +11,7 @@ import {
   HomeWelcome,
 } from "@/components/sipl/home-sections";
 import {
+  HomeBand,
   HomeInteriors,
   HomeLife,
   HomeLocation,
@@ -37,10 +38,23 @@ export default function Home() {
       <HomeCurtain />
       <HomeTowers />
       <HomeLife />
+      <HomeBand
+        id="frontageLandscapeRoad"
+        kicker="Open ground"
+        title="70% open,"
+        em="planned around green."
+      />
       <HomeResidences />
       <HomeInteriors />
       <HomeLandscape />
       <HomeProgress />
+      <HomeBand
+        id="gardenAmphitheatre"
+        kicker="Come and see it"
+        title="Visit the site,"
+        em="walk the grounds."
+        cta={{ href: "/contact", label: "Book a site visit" }}
+      />
       <HomeLocation />
       <HomeWelcome />
       <HomeEnquiry />

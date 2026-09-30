@@ -4,6 +4,7 @@ import { mapsLink, rera } from "@/data/verified";
 import { CountUp, Reveal } from "./motion";
 import { LifeScroll } from "./life-scroll";
 import { ResidenceTabs } from "./residence-tabs";
+import { siteImages, type SiteImageKey } from "@/data/site-images";
 import { Eyebrow, PillLink, SiteImg } from "./ui";
 
 export function HomeTrust() {
@@ -66,7 +67,7 @@ const life = [
 
 export function HomeLife() {
   return (
-    <section className="s-section s-bg-ivory" aria-labelledby="life-title">
+    <section className="s-section s-bg-ivory s-life-section" aria-labelledby="life-title">
       <div className="s-container">
         <Reveal>
           <Eyebrow>Life at Sri Krishna Vilas</Eyebrow>
@@ -215,6 +216,47 @@ export function HomeLocation() {
               </dd>
             </div>
           </dl>
+        </Reveal>
+      </div>
+    </section>
+  );
+}
+
+/** Full-bleed picture band with a fixed background and one line of type. */
+export function HomeBand({
+  id,
+  kicker,
+  title,
+  em,
+  cta,
+}: {
+  id: SiteImageKey;
+  kicker: string;
+  title: string;
+  em: string;
+  cta?: { href: string; label: string };
+}) {
+  const img = siteImages[id];
+  return (
+    <section
+      className="s-band"
+      style={{ backgroundImage: `url(${img.src})` }}
+      aria-label={img.alt}
+    >
+      <div className="s-band-veil" aria-hidden="true" />
+      <div className="s-container s-band-inner">
+        <Reveal>
+          <p className="s-band-k">{kicker}</p>
+          <h2 className="s-display s-band-t">
+            {title}
+            <em>{em}</em>
+          </h2>
+          {cta && (
+            <PillLink href={cta.href} variant="light">
+              {cta.label}
+            </PillLink>
+          )}
+          <p className="s-band-c">Artist&apos;s impression</p>
         </Reveal>
       </div>
     </section>
