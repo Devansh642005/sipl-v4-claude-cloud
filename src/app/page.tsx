@@ -10,6 +10,14 @@ import {
   HomeTowers,
   HomeWelcome,
 } from "@/components/sipl/home-sections";
+import {
+  HomeInteriors,
+  HomeLife,
+  HomeLocation,
+  HomeProgress,
+  HomeResidences,
+  HomeTrust,
+} from "@/components/sipl/home-more";
 
 export const metadata: Metadata = {
   title: "SIPL Group | Building Trust | Varanasi",
@@ -22,12 +30,18 @@ export default function Home() {
   return (
     <main id="main" className="s-page">
       <HomeHero />
+      <HomeTrust />
       <HomeRibbon />
       <HomeStatement />
       <HomePortfolio />
       <HomeCurtain />
       <HomeTowers />
+      <HomeLife />
+      <HomeResidences />
+      <HomeInteriors />
       <HomeLandscape />
+      <HomeProgress />
+      <HomeLocation />
       <HomeWelcome />
       <HomeEnquiry />
     </main>
