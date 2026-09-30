@@ -47,7 +47,7 @@ export function EnquiryBand({ title, em }: { title: string; em: string }) {
           <em>{em}</em>
         </h2>
         <div className="s-actions">
-          <Link href="/contact" className="s-pill s-pill-light">
+          <Link href="/book-visit" className="s-pill s-pill-light">
             <span>Book a site visit</span>
           </Link>
           <Link href="/projects/sri-krishna-vilas" className="s-textlink">

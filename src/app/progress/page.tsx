@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { EnquiryBand, SubHero } from "@/components/sipl/subpage";
+import { diary } from "@/data/progress";
 
 export const metadata: Metadata = {
   title: "Site progress | Sri Krishna Vilas | SIPL Group",
@@ -39,6 +40,29 @@ export default function Progress() {
           <p className="s-caption">Site photographs. Dated updates are shared on visits and by request.</p>
         </div>
       </section>
+      {diary.length > 0 && (
+        <section className="s-section s-bg-sand" aria-labelledby="diary-t">
+          <div className="s-container">
+            <p className="s-eyebrow">Construction diary</p>
+            <h2 id="diary-t" className="s-display s-h2">
+              Month by month,
+              <em>as it happened.</em>
+            </h2>
+            <ol className="dr">
+              {diary.map((d) => (
+                <li key={d.date} className="sp-card">
+                  <time dateTime={d.date}>{new Date(d.date).toLocaleDateString("en-IN", { month: "long", year: "numeric" })}</time>
+                  <div className="dr-img sp-frame">
+                    <Image src={d.image} alt={d.title} fill sizes="(max-width: 900px) 90vw, 520px" style={{ objectFit: "cover" }} />
+                  </div>
+                  <h3 className="s-display">{d.title}</h3>
+                  <p className="s-body">{d.text}</p>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </section>
+      )}
       <EnquiryBand title="Walk the site" em="with our team." />
     </main>
   );

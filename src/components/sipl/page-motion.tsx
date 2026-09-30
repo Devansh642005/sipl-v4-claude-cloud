@@ -10,6 +10,7 @@ const SKIP =
 /** Scroll reveals, gentle parallax and page fade for every page. */
 export function PageMotion() {
   const path = usePathname();
+  useMagnetic();
 
   useEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
@@ -66,6 +67,30 @@ export function PageMotion() {
   }, [path]);
 
   return null;
+}
+
+/** Buttons lean gently toward the pointer. */
+export function useMagnetic() {
+  useEffect(() => {
+    if (!window.matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    let cur: HTMLElement | null = null;
+    const move = (e: PointerEvent) => {
+      const t = (e.target as HTMLElement | null)?.closest<HTMLElement>(".s-pill, .s-nav-enquire, .tl-link, .pe-heart");
+      if (cur && cur !== t) {
+        cur.style.transform = "";
+        cur = null;
+      }
+      if (!t) return;
+      cur = t;
+      const r = t.getBoundingClientRect();
+      const dx = (e.clientX - (r.left + r.width / 2)) / r.width;
+      const dy = (e.clientY - (r.top + r.height / 2)) / r.height;
+      t.style.transform = `translate(${(dx * 8).toFixed(1)}px, ${(dy * 6).toFixed(1)}px)`;
+    };
+    document.addEventListener("pointermove", move, { passive: true });
+    return () => document.removeEventListener("pointermove", move);
+  }, []);
 }
 
 /** A small gold ring that follows the pointer and says "View" over pictures. */

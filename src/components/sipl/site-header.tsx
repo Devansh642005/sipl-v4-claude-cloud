@@ -54,6 +54,9 @@ export function SiteHeader() {
       <div className="s-utility">
         <div className="s-utility-inner">
           <span>Real estate &amp; hospitality · Varanasi</span>
+          <Link href="/about/awards" className="s-utility-award">
+            <i aria-hidden="true">★</i> IGBC Gold Precertified · UP RERA registered
+          </Link>
           <div className="s-utility-links">
             <a href={"tel:" + contact.tel}>{contact.phone}</a>
             <a href={"mailto:" + contact.email}>{contact.email}</a>

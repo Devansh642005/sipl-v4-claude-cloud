@@ -59,6 +59,50 @@ export default function Location() {
           </div>
         </div>
       </section>
+      <section className="s-section s-bg-ivory" aria-labelledby="nb-t">
+        <div className="s-container nb">
+          <div>
+            <p className="s-eyebrow">The neighbourhood</p>
+            <h2 id="nb-t" className="s-display s-h2">
+              Life on
+              <em>Lahartara–Bhitari Road.</em>
+            </h2>
+            <p className="s-body">
+              Public property listings describe the area as well connected, close to Varanasi&apos;s Ring Road and the
+              highways towards Prayagraj and Lucknow, with railway stations, universities including BHU, schools and
+              markets within an easy drive.
+            </p>
+            <p className="s-body">
+              We do not print drive times on a website, because they change with the hour and the traffic. The honest
+              way to judge a location is to drive it. Book a visit, and come at the hour you would actually travel.
+            </p>
+            <div className="s-actions">
+              <a className="s-pill s-pill-solid" href="/book-visit">
+                <span>Book a site visit</span>
+              </a>
+            </div>
+            <p className="s-caption">Neighbourhood details are drawn from public listings. Please confirm on your visit.</p>
+          </div>
+          <ul className="nb-list">
+            <li>
+              <b>Getting around</b>
+              <span>Ring Road and the Prayagraj and Lucknow highways, as reported in public listings.</span>
+            </li>
+            <li>
+              <b>Learning</b>
+              <span>Universities including BHU, and schools across the city.</span>
+            </li>
+            <li>
+              <b>Everyday needs</b>
+              <span>Markets, banks and hospitals within an easy drive of Varanasi.</span>
+            </li>
+            <li>
+              <b>The city</b>
+              <span>The ghats and old Kashi, a drive away. Your weekends are sorted.</span>
+            </li>
+          </ul>
+        </div>
+      </section>
       <EnquiryBand title="Plan your visit" em="with us." />
     </main>
   );

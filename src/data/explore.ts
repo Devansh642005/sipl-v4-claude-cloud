@@ -31,6 +31,24 @@ export const explorePages = [
     image: "frontageLandscapeRoad",
   },
   {
+    href: "/tools",
+    title: "Budget planner",
+    blurb: "Find a plan that suits your family and your monthly payment.",
+    image: "lobbyReception",
+  },
+  {
+    href: "/stories",
+    title: "Buyer stories",
+    blurb: "Four kinds of buyer, and honest advice for each.",
+    image: "gokulEntrance",
+  },
+  {
+    href: "/ask",
+    title: "Ask us anything",
+    blurb: "The questions buyers are afraid to ask, answered plainly.",
+    image: "gardenAmphitheatre",
+  },
+  {
     href: "/buyers-guide",
     title: "Buyer's guide",
     blurb: "How buying works, step by step, and questions answered.",

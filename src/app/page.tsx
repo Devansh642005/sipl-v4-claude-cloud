@@ -21,11 +21,13 @@ import {
   HomeTrust,
 } from "@/components/sipl/home-more";
 import {
+  HomeDay,
   HomeLeadership,
   HomeLines,
   HomeManifesto,
   HomeRecognition,
   HomeStory,
+  HomeVoices,
   HomeWhy,
 } from "@/components/sipl/home-royal";
 
@@ -50,6 +52,7 @@ export default function Home() {
       <HomeCurtain />
       <HomeTowers />
       <HomeLife />
+      <HomeDay />
       <HomeBand
         id="frontageLandscapeRoad"
         kicker="Open ground"
@@ -64,12 +67,13 @@ export default function Home() {
       <HomeProgress />
       <HomeRecognition />
       <HomeLeadership />
+      <HomeVoices />
       <HomeBand
         id="gardenAmphitheatre"
         kicker="Come and see it"
         title="Visit the site,"
         em="walk the grounds."
-        cta={{ href: "/contact", label: "Book a site visit" }}
+        cta={{ href: "/book-visit", label: "Book a site visit" }}
       />
       <HomeLocation />
       <HomeWelcome />

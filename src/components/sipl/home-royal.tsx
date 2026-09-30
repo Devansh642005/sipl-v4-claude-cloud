@@ -4,6 +4,8 @@ import { CountUp, Reveal } from "./motion";
 import { WordScroll, SplitHeading } from "./word-motion";
 import { Eyebrow, PillLink } from "./ui";
 import { rera } from "@/data/verified";
+import { LifeScroll } from "./life-scroll";
+import { testimonials } from "@/data/testimonials";
 import { groupCompanies } from "@/data/company";
 
 /* ── Catchy lines that scroll past ─────────────────────────────────── */
@@ -319,6 +321,77 @@ export function HomeLeadership() {
             <Link href="/about/leadership">Meet the whole team</Link>
           </p>
         </Reveal>
+      </div>
+    </section>
+  );
+}
+
+/* ── A day, in four scenes ─────────────────────────────────────────── */
+const day = [
+  {
+    id: "balconyPoolView",
+    title: "Start on the balcony",
+    text: "Coffee, a quiet horizon and the pool below. The day begins before the city does.",
+  },
+  {
+    id: "gardenAmphitheatre",
+    title: "Step into the garden",
+    text: "A circle of stepped seating among the trees. Somewhere to sit, walk or simply be outdoors.",
+  },
+  {
+    id: "livingDining",
+    title: "Gather at the table",
+    text: "Timber, soft light and room to seat everyone who matters.",
+  },
+  {
+    id: "bedroom",
+    title: "End it in calm",
+    text: "A warm, uncluttered bedroom. The kind of quiet a busy city rarely offers.",
+  },
+] as const;
+export function HomeDay() {
+  return (
+    <section className="s-section hd" aria-labelledby="day-title">
+      <div className="s-container">
+        <Reveal>
+          <Eyebrow>A day at Sri Krishna Vilas</Eyebrow>
+        </Reveal>
+        <SplitHeading
+          id="day-title"
+          className="s-display s-h2"
+          lines={[{ text: "Four scenes," }, { text: "one ordinary, lovely day.", em: true }]}
+        />
+        <LifeScroll items={[...day]} />
+        <p className="s-caption">Architectural visualisations. Artist&apos;s impressions.</p>
+      </div>
+    </section>
+  );
+}
+
+/* ── Real voices: renders only when verified testimonials exist ────── */
+export function HomeVoices() {
+  const real = testimonials.filter((t) => t.verified);
+  if (!real.length) return null;
+  return (
+    <section className="s-section hv" aria-labelledby="voices-title">
+      <div className="s-container">
+        <Eyebrow>In their words</Eyebrow>
+        <SplitHeading
+          id="voices-title"
+          className="s-display s-h2"
+          lines={[{ text: "Homes are judged" }, { text: "by the people in them.", em: true }]}
+        />
+        <div className="hv-grid">
+          {real.map((t) => (
+            <figure key={t.id} className="hv-card">
+              <blockquote>“{t.quote}”</blockquote>
+              <figcaption>
+                <b>{t.name}</b>
+                {t.project ? <span>{t.project}</span> : null}
+              </figcaption>
+            </figure>
+          ))}
+        </div>
       </div>
     </section>
   );

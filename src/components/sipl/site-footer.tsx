@@ -4,6 +4,7 @@ import { contact } from "@/data/contact";
 import { contactConfig } from "@/data/contact";
 import { siteImages } from "@/data/site-images";
 import { ArrowIcon } from "./ui";
+import { TowersArt } from "./flourish";
 
 const columns = [
   {
@@ -59,6 +60,10 @@ export function SiteFooter() {
           <p className="s-footer-tagline">
             Real estate and hospitality. Rooted in Varanasi.
           </p>
+          <p className="s-footer-deva" lang="hi">
+            श्री कृष्ण विलास
+          </p>
+          <TowersArt />
         </div>
         <div className="s-footer-grid">
           <div className="s-footer-brand">

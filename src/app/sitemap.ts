@@ -8,6 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...Object.keys(pages),
     "/projects/sri-krishna-vilas",
     ...explorePages.map((e) => e.href),
+    "/book-visit",
     ...articles.filter((a) => a.verified).map((a) => "/blog/" + a.slug),
   ].map((path) => ({
     url: "https://siplgroup.in" + path,
