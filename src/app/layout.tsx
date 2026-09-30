@@ -6,13 +6,35 @@ import "./royal.css";
 import "./experience.css";
 import "./luxe.css";
 import "./editorial.css";
+import "./sipl.css";
+import type { Viewport } from "next";
+import { Cormorant_Garamond, DM_Sans } from "next/font/google";
 import { VideoTheatre } from "@/components/corporate/video-theatre";
 import { GraphicMotion } from "@/components/corporate/graphic-motion";
-import {
-  CorporateHeader,
-  GlobalContact,
-} from "@/components/corporate/interactive";
-import { CorporateFooter } from "@/components/corporate/shared";
+import { GlobalContact } from "@/components/corporate/interactive";
+import { SiteHeader } from "@/components/sipl/site-header";
+import { SiteFooter } from "@/components/sipl/site-footer";
+
+const display = Cormorant_Garamond({
+  subsets: ["latin"],
+  weight: ["500"],
+  style: ["normal", "italic"],
+  variable: "--font-display",
+  display: "swap",
+});
+const body = DM_Sans({
+  subsets: ["latin"],
+  weight: ["400", "500"],
+  variable: "--font-body",
+  display: "swap",
+});
+
+export const viewport: Viewport = {
+  themeColor: "#F6F0E6",
+  width: "device-width",
+  initialScale: 1,
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://siplgroup.in"),
   title: "SIPL Group | Building Trust",
@@ -35,14 +57,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body>
+    <html lang="en" className={`${display.variable} ${body.variable}`}>
+      <body className="s-body-root">
         <a className="skip-link" href="#main">
           Skip to content
         </a>
-        <CorporateHeader />
+        <SiteHeader />
         {children}
-        <CorporateFooter />
+        <SiteFooter />
         <GlobalContact />
         <GraphicMotion />
         <VideoTheatre />

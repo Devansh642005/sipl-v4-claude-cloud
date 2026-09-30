@@ -7,7 +7,17 @@
   --color-ivory: #f5f2eb;
   --color-ink: #292a26;
   --color-sipl: #a42e27;
+  --color-sand: #efe3d0;
+  --color-sand-2: #e6d5bc;
+  --color-cocoa: #3b2f28;
+  --color-deep: #1f1813;
+  --color-terracotta: #7a4a32;
+  --color-olive: #4a4b35;
+  --color-tan: #d6b48a;
+  --color-ink-2: #6b5b50;
+  --color-gold: #c9aa72;
   --font-sans: "DM Sans", sans-serif;
+  --font-serif: "Cormorant Garamond", Georgia, serif;
 }
 :root {
   --ivory: #f5f2eb;
