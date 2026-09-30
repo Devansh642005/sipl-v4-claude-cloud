@@ -23,7 +23,7 @@ export function ScrollJourney() {
     const wave = Math.max(320, vh / 2.2);
     let out = "";
     for (let y = -STEP; y <= vh + STEP; y += STEP) {
-      const x = GUTTER / 2 + (GUTTER / 2 - 12) * Math.sin((y / wave) * Math.PI * 2);
+      const x = GUTTER / 2 + 12 * Math.sin((y / wave) * Math.PI * 2);
       out += `${out ? "L" : "M"}${x.toFixed(1)} ${y}`;
     }
     return out;
@@ -43,7 +43,7 @@ export function ScrollJourney() {
       const at = path.getPointAtLength(total * p);
       const ahead = path.getPointAtLength(Math.min(total, total * p + 6));
       const tilt = Math.max(-26, Math.min(26, (ahead.x - at.x) * 9));
-      mark.setAttribute("transform", `translate(${at.x} ${at.y}) rotate(${tilt})`);
+      mark.setAttribute("transform", `translate(${at.x} ${at.y}) rotate(${tilt}) scale(1.2)`);
       line.style.strokeDashoffset = `${total * (1 - p)}`;
     };
     const tick = () => {

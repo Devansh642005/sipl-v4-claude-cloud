@@ -727,6 +727,10 @@
   color: rgb(246 240 230 / 0.86);
   max-width: 36ch;
 }
+.s-film-copy .s-textlink {
+  color: var(--s-ivory);
+  border-color: rgb(246 240 230 / 0.6);
+}
 .s-film-facts {
   margin-top: clamp(28px, 3vw, 44px);
 }
@@ -1363,7 +1367,7 @@
 .s-journey {
   position: fixed;
   top: 0;
-  right: 4px;
+  right: 20px;
   bottom: 0;
   width: 64px;
   z-index: 30;
