@@ -8,8 +8,9 @@ import "./luxe.css";
 import "./editorial.css";
 import "./sipl.css";
 import "./deep.css";
+import "./crown.css";
 import type { Viewport } from "next";
-import { Cormorant_Garamond, DM_Sans } from "next/font/google";
+import { Cinzel, Cormorant_Garamond, DM_Sans } from "next/font/google";
 import { VideoTheatre } from "@/components/corporate/video-theatre";
 import { GraphicMotion } from "@/components/corporate/graphic-motion";
 import { GlobalContact } from "@/components/corporate/interactive";
@@ -20,9 +21,15 @@ import { GoldCursor, PageMotion } from "@/components/sipl/page-motion";
 
 const display = Cormorant_Garamond({
   subsets: ["latin"],
-  weight: ["500"],
+  weight: ["400", "500", "600", "700"],
   style: ["normal", "italic"],
   variable: "--font-display",
+  display: "swap",
+});
+const royal = Cinzel({
+  subsets: ["latin"],
+  weight: ["500", "600"],
+  variable: "--font-royal",
   display: "swap",
 });
 const body = DM_Sans({
@@ -60,7 +67,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={`${display.variable} ${body.variable}`}>
+    <html lang="en" className={`${display.variable} ${body.variable} ${royal.variable}`}>
       <body className="s-body-root">
         <a className="skip-link" href="#main">
           Skip to content
