@@ -1,12 +1,14 @@
 import Link from "next/link";
 import { EnquireButton } from "@/components/corporate/interactive";
+import { HeroFilm } from "./hero-film";
 import { Arch, ArrowIcon, Eyebrow, KeyTag, PillLink, Ribbon, SiteImg, TextLink } from "./ui";
 
 export function HomeHero() {
   return (
-    <section className="s-hero" aria-labelledby="home-title">
-      <div className="s-container s-hero-grid">
-        <div className="s-hero-copy">
+    <section className="s-hero s-hero-film" aria-labelledby="home-title">
+      <div className="s-film-stage">
+        <HeroFilm />
+        <div className="s-film-copy">
           <Eyebrow>Current project · Real estate · Running</Eyebrow>
           <h1 id="home-title" className="s-display s-hero-title">
             Two towers.
@@ -23,34 +25,26 @@ export function HomeHero() {
             </PillLink>
             <TextLink href="/projects">Explore our portfolio</TextLink>
           </div>
-          <dl className="s-facts">
-            <div>
-              <dt>Our founding year</dt>
-              <dd>2013</dd>
-            </div>
-            <div>
-              <dt>Business verticals</dt>
-              <dd>2</dd>
-            </div>
-            <div>
-              <dt>One shared principle</dt>
-              <dd className="s-facts-word">Building Trust</dd>
-            </div>
-          </dl>
         </div>
-        <figure className="s-hero-visual">
-          <div className="s-slats" aria-hidden="true" />
-          <Arch
-            id="aerialTwinTowers"
-            sizes="(max-width: 900px) 80vw, 520px"
-            priority
-            className="s-hero-arch"
-          />
-          <figcaption className="s-caption">
-            Sri Krishna Vilas · Architectural visualisation
-            <span> · Artist&apos;s impression</span>
-          </figcaption>
-        </figure>
+      </div>
+      <div className="s-container">
+        <dl className="s-facts s-film-facts">
+          <div>
+            <dt>Our founding year</dt>
+            <dd>2013</dd>
+          </div>
+          <div>
+            <dt>Business verticals</dt>
+            <dd>2</dd>
+          </div>
+          <div>
+            <dt>One shared principle</dt>
+            <dd className="s-facts-word">Building Trust</dd>
+          </div>
+        </dl>
+        <p className="s-caption s-film-note">
+          Sri Krishna Vilas · Architectural visualisation · Artist&apos;s impression
+        </p>
       </div>
     </section>
   );

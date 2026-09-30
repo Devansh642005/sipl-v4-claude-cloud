@@ -14,6 +14,7 @@ import { GraphicMotion } from "@/components/corporate/graphic-motion";
 import { GlobalContact } from "@/components/corporate/interactive";
 import { SiteHeader } from "@/components/sipl/site-header";
 import { SiteFooter } from "@/components/sipl/site-footer";
+import { ScrollJourney } from "@/components/sipl/scroll-journey";
 
 const display = Cormorant_Garamond({
   subsets: ["latin"],
@@ -63,6 +64,7 @@ export default function RootLayout({
           Skip to content
         </a>
         <SiteHeader />
+        <ScrollJourney />
         {children}
         <SiteFooter />
         <GlobalContact />
